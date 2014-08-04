@@ -1,0 +1,7986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="kdlu" audio_filename="MaternalHome-053" version="3" version_date="110120">
+<Speakers>
+<Speaker id="spk1" name="唐美雲" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="石英" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="蘇晏霈" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="張銘杰" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="高欣欣" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="廖家儀" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="勾峰" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="況明潔" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="倪齊民" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="江淑娜" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="張瓊姿" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="葉家妤" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="高宇蓁" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk14" name="李興文" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk15" name="雷洪" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk16" name="劉秀雯" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="護士" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="朱慧珍" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="6112.560">
+<Turn startTime="0" endTime="14.602">
+<Sync time="0"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.602" endTime="17.065">
+<Sync time="14.602"/>
+
+<Sync time="15.053"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.065" endTime="19.241">
+<Sync time="17.065"/>
+
+<Sync time="18.391"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.241" endTime="23.557">
+<Sync time="19.241"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="23.557" endTime="24.733">
+<Sync time="23.557"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.733" endTime="30.595">
+<Sync time="24.733"/>
+
+<Sync time="27.016"/>
+
+<Sync time="29.662"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.595" endTime="32.919">
+<Sync time="30.595"/>
+
+<Sync time="32.322"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="32.919" endTime="35.253">
+<Sync time="32.919"/>
+
+<Sync time="33.74"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="35.253" endTime="37.388">
+<Sync time="35.253"/>
+
+<Sync time="35.832"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="37.388" endTime="40.16">
+<Sync time="37.388"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.16" endTime="50.832">
+<Sync time="40.16"/>
+
+<Sync time="42.485"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="43.585"/>
+
+<Sync time="45.498"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="46.185"/>
+
+<Sync time="49.164"/>
+
+<Sync time="50.456"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.832" endTime="59.256">
+<Sync time="50.832"/>
+
+<Sync time="53.024"/>
+
+<Sync time="57.515"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="59.256" endTime="64.757">
+<Sync time="59.256"/>
+
+<Sync time="60.58"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="61.29"/>
+
+<Sync time="63.883"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.757" endTime="81.66">
+<Sync time="64.757"/>
+
+<Sync time="66.84"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="68.032"/>
+
+<Sync time="71.682"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="72.36"/>
+
+<Sync time="75.725"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="76.651"/>
+
+<Sync time="79.082"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="81.66" endTime="85.925">
+<Sync time="81.66"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="85.925" endTime="88.612">
+<Sync time="85.925"/>
+
+<Sync time="87.993"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="88.612" endTime="95.984">
+<Sync time="88.612"/>
+
+<Sync time="90.422"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="95.984" endTime="99.09">
+<Sync time="95.984"/>
+
+<Sync time="98.019"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="99.09" endTime="100.956">
+<Sync time="99.09"/>
+
+<Sync time="100.174"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="100.956" endTime="115.956">
+<Sync time="100.956"/>
+
+<Sync time="103.454"/>
+
+<Sync time="106.57"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="107.044"/>
+
+<Sync time="111.067"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="115.956" endTime="126.803">
+<Sync time="115.956"/>
+
+<Sync time="116.614"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="118.217"/>
+
+<Sync time="119.383"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="119.908"/>
+
+<Sync time="122.79"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="123.282"/>
+
+<Sync time="124.675"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="125.967"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="126.803" endTime="132.09">
+<Sync time="126.803"/>
+
+<Sync time="128.869"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="129.551"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="132.09" endTime="133.979">
+<Sync time="132.09"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="133.979" endTime="141.532">
+<Sync time="133.979"/>
+
+<Sync time="135.943"/>
+
+<Sync time="137.838"/>
+
+<Sync time="141.081"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="141.532" endTime="145.288">
+<Sync time="141.532"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="145.288" endTime="146.413">
+<Sync time="145.288"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="146.413" endTime="150.374">
+<Sync time="146.413"/>
+
+<Sync time="148.974"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="150.374" endTime="161.757">
+<Sync time="150.374"/>
+
+<Sync time="151.391"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="161.757" endTime="162.948">
+<Sync time="161.757"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="162.948" endTime="164.001">
+<Sync time="162.948"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="164.001" endTime="223.105">
+<Sync time="164.001"/>
+
+<Sync time="167.439"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="223.105" endTime="386.62">
+<Sync time="223.105"/>
+
+<Sync time="223.808"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="224.578"/>
+
+<Sync time="226.029"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="226.879"/>
+
+<Sync time="228.162"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="229.777"/>
+
+<Sync time="231.737"/>
+
+<Sync time="232.573"/>
+
+<Sync time="235.59"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="237.132"/>
+
+<Sync time="237.733"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="238.643"/>
+
+<Sync time="241.605"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="242.801"/>
+
+<Sync time="243.656"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="244.73"/>
+
+<Sync time="246.163"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="248.542"/>
+
+<Sync time="250.915"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="252.025"/>
+
+<Sync time="254.205"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="255.495"/>
+
+<Sync time="257.454"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="259.453"/>
+
+<Sync time="263.382"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="264.04"/>
+
+<Sync time="265.735"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="266.55"/>
+
+<Sync time="267.901"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="269.294"/>
+
+<Sync time="271.025"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="272.015"/>
+
+<Sync time="274.161"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="276.222"/>
+
+<Sync time="280.568"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="282.121"/>
+
+<Sync time="282.955"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="284.113"/>
+
+<Sync time="286.402"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="288.942"/>
+
+<Sync time="289.881"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="290.872"/>
+
+<Sync time="292.488"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="297.099"/>
+
+<Sync time="301.157"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="303.196"/>
+
+<Sync time="303.98"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="305.134"/>
+
+<Sync time="306.038"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="306.981"/>
+
+<Sync time="308.422"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="386.62" endTime="395.638">
+<Sync time="386.62"/>
+
+<Sync time="387.721"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="395.638" endTime="398.504">
+<Sync time="395.638"/>
+
+<Sync time="396.121"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="398.504" endTime="400.632">
+<Sync time="398.504"/>
+
+<Sync time="398.894"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="400.632" endTime="409.906">
+<Sync time="400.632"/>
+
+<Sync time="402.669"/>
+
+<Sync time="407.544"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="409.906" endTime="414.832">
+<Sync time="409.906"/>
+
+<Sync time="412.9"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="414.832" endTime="429.663">
+<Sync time="414.832"/>
+
+<Sync time="415.451"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="416.437"/>
+
+<Sync time="417.808"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="418.286"/>
+
+<Sync time="420.261"/>
+
+<Sync time="421.364"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="422.252"/>
+
+<Sync time="424.604"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="429.663" endTime="441.443">
+<Sync time="429.663"/>
+
+<Sync time="431.737"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="433.289"/>
+
+<Sync time="433.693"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="434.582"/>
+
+<Sync time="435.592"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="437.035"/>
+
+<Sync time="440.16"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="441.443" endTime="450.405">
+<Sync time="441.443"/>
+
+<Sync time="444.454"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="445.276"/>
+
+<Sync time="448.037"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="450.405" endTime="457.226">
+<Sync time="450.405"/>
+
+<Sync time="455.431"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="457.226" endTime="464.765">
+<Sync time="457.226"/>
+
+<Sync time="460.342"/>
+
+<Sync time="464.182"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="464.765" endTime="471.453">
+<Sync time="464.765"/>
+
+<Sync time="465.594"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="466.356"/>
+
+<Sync time="469.459"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="471.453" endTime="513.824">
+<Sync time="471.453"/>
+
+<Sync time="472.225"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="513.824" endTime="517.154">
+<Sync time="513.824"/>
+
+<Sync time="514.586"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="517.154" endTime="520.642">
+<Sync time="517.154"/>
+
+<Sync time="518.882"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="520.642" endTime="527.586">
+<Sync time="520.642"/>
+
+<Sync time="525.783"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="526.764"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="527.586" endTime="551.928">
+<Sync time="527.586"/>
+
+<Sync time="528.623"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="532.449"/>
+
+<Sync time="533.889"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="534.713"/>
+
+<Sync time="536.316"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="537.448"/>
+
+<Sync time="538.718"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="540.199"/>
+
+<Sync time="542.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="543.75"/>
+
+<Sync time="544.431"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="545.627"/>
+
+<Sync time="547.359"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="551.928" endTime="554.459">
+<Sync time="551.928"/>
+
+<Sync time="553.851"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="554.459" endTime="584.171">
+<Sync time="554.459"/>
+
+<Sync time="556.509"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="557.476"/>
+
+<Sync time="558.518"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="560.06"/>
+
+<Sync time="562.193"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="563.587"/>
+
+<Sync time="566.213"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="567.078"/>
+
+<Sync time="567.826"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="568.637"/>
+
+<Sync time="574.464"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="584.171" endTime="609.876">
+<Sync time="584.171"/>
+
+<Sync time="588.422"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="599.933"/>
+
+<Sync time="601.692"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="605.231"/>
+
+<Sync time="606.407"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="607.407"/>
+
+<Sync time="609.131"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="609.876" endTime="614.144">
+<Sync time="609.876"/>
+
+<Sync time="610.373"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="611.577"/>
+
+<Sync time="612.754"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="614.144" endTime="619.75">
+<Sync time="614.144"/>
+
+<Sync time="615.711"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="619.75" endTime="632.433">
+<Sync time="619.750"/>
+
+<Sync time="624.858"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="625.929"/>
+
+<Sync time="630.241"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="632.433" endTime="650.903">
+<Sync time="632.433"/>
+
+<Sync time="633.826"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="634.625"/>
+
+<Sync time="636.794"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="638.071"/>
+
+<Sync time="641.689"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="642.253"/>
+
+<Sync time="646.275"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="650.903" endTime="662.357">
+<Sync time="650.903"/>
+
+<Sync time="651.792"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="652.696"/>
+
+<Sync time="654.006"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="655.222"/>
+
+<Sync time="656.098"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="657.155"/>
+
+<Sync time="657.939"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="658.877"/>
+
+<Sync time="660.849"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="662.357" endTime="706.424">
+<Sync time="662.357"/>
+
+<Sync time="663.41"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="664.268"/>
+
+<Sync time="669.699"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="673.284"/>
+
+<Sync time="676.589"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="677.043"/>
+
+<Sync time="680.479"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="682.332"/>
+
+<Sync time="682.7"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="684.537"/>
+
+<Sync time="689.434"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="693.319"/>
+
+<Sync time="694.138"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="694.823"/>
+
+<Sync time="697.528"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="698.355"/>
+
+<Sync time="700.577"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="701.284"/>
+
+<Sync time="705.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="706.424" endTime="709.922">
+<Sync time="706.424"/>
+
+<Sync time="707.084"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="708.163"/>
+
+<Sync time="709.197"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="709.922" endTime="725.988">
+<Sync time="709.922"/>
+
+<Sync time="713.01"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="713.621"/>
+
+<Sync time="717.739"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="719.901"/>
+
+<Sync time="720.6"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="721.431"/>
+
+<Sync time="724.276"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="725.988" endTime="743.787">
+<Sync time="725.988"/>
+
+<Sync time="727.196"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="729.506"/>
+
+<Sync time="730.535"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="731.376"/>
+
+<Sync time="734.772"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="737.634"/>
+
+<Sync time="738.766"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="739.766"/>
+
+<Sync time="741.434"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="742.795"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="743.787" endTime="750.464">
+<Sync time="743.787"/>
+
+<Sync time="744.407"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="749.694"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="750.464" endTime="769.999">
+<Sync time="750.464"/>
+
+<Sync time="751.015"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="769.999" endTime="783.139">
+<Sync time="769.999"/>
+
+<Sync time="770.594"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="772.217"/>
+
+<Sync time="775.15"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="776.013"/>
+
+<Sync time="777.438"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="778.210"/>
+
+<Sync time="780.204"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="781.563"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="783.139" endTime="793.853">
+<Sync time="783.139"/>
+
+<Sync time="784.057"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="785.875"/>
+
+<Sync time="787.643"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="793.853" endTime="840.037">
+<Sync time="793.853"/>
+
+<Sync time="794.443"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="796.138"/>
+
+<Sync time="798.007"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="803.935"/>
+
+<Sync time="805.263"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="806.817"/>
+
+<Sync time="808.232"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="808.852"/>
+
+<Sync time="811.956"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="812.841"/>
+
+<Sync time="815.259"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="815.922"/>
+
+<Sync time="818.157"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="819.52"/>
+
+<Sync time="823.131"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="823.641"/>
+
+<Sync time="825.4"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="825.792"/>
+
+<Sync time="826.628"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="827.417"/>
+
+<Sync time="828.116"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="830.32"/>
+
+<Sync time="833.415"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="834.447"/>
+
+<Sync time="835.478"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="836.459"/>
+
+<Sync time="839.512"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="840.037" endTime="843.623">
+<Sync time="840.037"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="843.623" endTime="859.826">
+<Sync time="843.623"/>
+
+<Sync time="844.809"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="846.128"/>
+
+<Sync time="847.586"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="848.183"/>
+
+<Sync time="853.251"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="859.826" endTime="865.065">
+<Sync time="859.826"/>
+
+<Sync time="864.075"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="865.065" endTime="869.597">
+<Sync time="865.065"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="869.597" endTime="871.727">
+<Sync time="869.597"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="871.727" endTime="902.635">
+<Sync time="871.727"/>
+
+<Sync time="873.371"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="875.925"/>
+
+<Sync time="876.535"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="877.644"/>
+
+<Sync time="879.113"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="879.996"/>
+
+<Sync time="880.473"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="881.273"/>
+
+<Sync time="883.757"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="884.497"/>
+
+<Sync time="886.979"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="888.386"/>
+
+<Sync time="892.38"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="894.038"/>
+
+<Sync time="895.123"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="896.073"/>
+
+<Sync time="897.797"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="899.518"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="902.635" endTime="903.959">
+<Sync time="902.635"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="903.959" endTime="930.451">
+<Sync time="903.959"/>
+
+<Sync time="905.613"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="906.693"/>
+
+<Sync time="908.636"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="910.093"/>
+
+<Sync time="911.413"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="912.249"/>
+
+<Sync time="915.025"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="918.907"/>
+
+<Sync time="923.484"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="924.754"/>
+
+<Sync time="928.85"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="930.451" endTime="932.554">
+<Sync time="930.451"/>
+
+<Sync time="932.3"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="932.554" endTime="967.192">
+<Sync time="932.554"/>
+
+<Sync time="933.52"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="934.896"/>
+
+<Sync time="935.954"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="936.79"/>
+
+<Sync time="939.564"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="941.019"/>
+
+<Sync time="944.916"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="946.081"/>
+
+<Sync time="948.858"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="950.162"/>
+
+<Sync time="953.848"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="954.705"/>
+
+<Sync time="959.064"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="960.289"/>
+
+<Sync time="961.551"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="962.299"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="967.192" endTime="983.678">
+<Sync time="967.192"/>
+
+<Sync time="967.711"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="969.468"/>
+
+<Sync time="970.288"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="978.351"/>
+
+<Sync time="979.638"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="983.678" endTime="988.854">
+<Sync time="983.678"/>
+
+<Sync time="984.841"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="985.661"/>
+
+<Sync time="986.573"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="988.854" endTime="996.655">
+<Sync time="988.854"/>
+
+<Sync time="991.214"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="996.655" endTime="1055.387">
+<Sync time="996.655"/>
+
+<Sync time="997.365"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1001.751"/>
+
+<Sync time="1003.347"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1004.813"/>
+
+<Sync time="1007.484"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1009.447"/>
+
+<Sync time="1010.893"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1019.979"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1024.036"/>
+
+<Sync time="1024.981"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1055.387" endTime="1117.738">
+<Sync time="1055.387"/>
+
+<Sync time="1060.182"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1061.232"/>
+
+<Sync time="1063.049"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1063.939"/>
+
+<Sync time="1066.277"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1067.894"/>
+
+<Sync time="1070.016"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1071.015"/>
+
+<Sync time="1073.265"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1075.141"/>
+
+<Sync time="1076.199"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1077.145"/>
+
+<Sync time="1078.592"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1079.482"/>
+
+<Sync time="1081.501"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1117.738" endTime="1120.899">
+<Sync time="1117.738"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1118.376"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1119.285"/>
+
+<Sync time="1120.279"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1120.899" endTime="1127.486">
+<Sync time="1120.899"/>
+
+<Sync time="1121.12"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1121.937"/>
+
+<Sync time="1122.476"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1123.757"/>
+
+<Sync time="1124.003"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1124.691"/>
+
+<Sync time="1126.252"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1127.486" endTime="1134.729">
+<Sync time="1127.486"/>
+
+<Sync time="1129.803"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1131.597"/>
+
+<Sync time="1132.626"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1134.729" endTime="1159.794">
+<Sync time="1134.729"/>
+
+<Sync time="1136.162"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1137.952"/>
+
+<Sync time="1138.962"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1142.042"/>
+
+<Sync time="1142.413"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1144.287"/>
+
+<Sync time="1147.92"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1148.833"/>
+
+<Sync time="1151.9"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1152.766"/>
+
+<Sync time="1153.689"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1159.794" endTime="1165.908">
+<Sync time="1159.794"/>
+
+<Sync time="1161.057"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1165.908" endTime="1213.011">
+<Sync time="1165.908"/>
+
+<Sync time="1167.22"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1169.366"/>
+
+<Sync time="1170.372"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1172.019"/>
+
+<Sync time="1174.37"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1197.353"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1210.438"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1213.011" endTime="1219.094">
+<Sync time="1213.011"/>
+
+<Sync time="1214.386"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1219.094" endTime="1231.29">
+<Sync time="1219.094"/>
+
+<Sync time="1220.51"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1222.512"/>
+
+<Sync time="1223.545"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1225.244"/>
+
+<Sync time="1227.619"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1231.29" endTime="1239.921">
+<Sync time="1231.29"/>
+
+<Sync time="1231.864"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1233.521"/>
+
+<Sync time="1235.667"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1237.126"/>
+
+<Sync time="1238.097"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1238.947"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1239.921" endTime="1246.802">
+<Sync time="1239.921"/>
+
+<Sync time="1240.828"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1241.547"/>
+
+<Sync time="1243.279"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1246.802" endTime="1252.575">
+<Sync time="1246.802"/>
+
+<Sync time="1248.369"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1252.575" endTime="1344.921">
+<Sync time="1252.575"/>
+
+<Sync time="1253.482"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1256.697"/>
+
+<Sync time="1257.623"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1258.838"/>
+
+<Sync time="1260.012"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1261.224"/>
+
+<Sync time="1261.947"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1263.109"/>
+
+<Sync time="1263.931"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1344.921" endTime="1348.527">
+<Sync time="1344.921"/>
+
+<Sync time="1345.623"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1348.527" endTime="1350.071">
+<Sync time="1348.527"/>
+
+<Sync time="1349.021"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1350.071" endTime="1356.014">
+<Sync time="1350.071"/>
+
+<Sync time="1351.059"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1356.014" endTime="1360.429">
+<Sync time="1356.014"/>
+
+<Sync time="1357.413"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1358.613"/>
+
+<Sync time="1359.756"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1360.429" endTime="1366.693">
+<Sync time="1360.429"/>
+
+<Sync time="1360.905"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1363.346"/>
+
+<Sync time="1366.043"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1366.693" endTime="1399.547">
+<Sync time="1366.693"/>
+
+<Sync time="1367.22"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1368.596"/>
+
+<Sync time="1370.074"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1371.433"/>
+
+<Sync time="1373.232"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1376.069"/>
+
+<Sync time="1377.311"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1378.674"/>
+
+<Sync time="1381.846"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1384.455"/>
+
+<Sync time="1385.095"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1386.742"/>
+
+<Sync time="1387.489"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1389.116"/>
+
+<Sync time="1390.676"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1392.427"/>
+
+<Sync time="1395.321"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1399.547" endTime="1407.699">
+<Sync time="1399.547"/>
+
+<Sync time="1401.301"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1402.314"/>
+
+<Sync time="1403.287"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1407.699" endTime="1412.973">
+<Sync time="1407.699"/>
+
+<Sync time="1410.875"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1412.973" endTime="1422.084">
+<Sync time="1412.973"/>
+
+<Sync time="1413.859"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1415.157"/>
+
+<Sync time="1416.581"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1417.957"/>
+
+<Sync time="1418.858"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1420.159"/>
+
+<Sync time="1421.393"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1422.084" endTime="1428.483">
+<Sync time="1422.084"/>
+
+<Sync time="1423.101"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1424.425"/>
+
+<Sync time="1425.24"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1426.347"/>
+
+<Sync time="1427.304"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1428.483" endTime="1439.196">
+<Sync time="1428.483"/>
+
+<Sync time="1430.058"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1430.973"/>
+
+<Sync time="1434.086"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1435.022"/>
+
+<Sync time="1437.727"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1439.196" endTime="1443.311">
+<Sync time="1439.196"/>
+
+<Sync time="1442.656"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1443.311" endTime="1444.381">
+<Sync time="1443.311"/>
+
+<Sync time="1443.888"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1444.381" endTime="1449.764">
+<Sync time="1444.381"/>
+
+<Sync time="1447.377"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1449.764" endTime="1491.104">
+<Sync time="1449.764"/>
+
+<Sync time="1451.183"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1452.287"/>
+
+<Sync time="1453.149"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1468.059"/>
+
+<Sync time="1468.978"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1491.104" endTime="1545.591">
+<Sync time="1491.104"/>
+
+<Sync time="1491.889"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1495.196"/>
+
+<Sync time="1497.315"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1501.304"/>
+
+<Sync time="1502.266"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1504.877"/>
+
+<Sync time="1506.088"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1507.734"/>
+
+<Sync time="1508.65"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1509.992"/>
+
+<Sync time="1511.46"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1513.775"/>
+
+<Sync time="1515.806"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1517.508"/>
+
+<Sync time="1518.198"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1524.001"/>
+
+<Sync time="1524.798"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1528.961"/>
+
+<Sync time="1529.925"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1531.425"/>
+
+<Sync time="1532.455"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1545.591" endTime="1571.613">
+<Sync time="1545.591"/>
+
+<Sync time="1546.849"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1548.546"/>
+
+<Sync time="1550.344"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1554.527"/>
+
+<Sync time="1555.052"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1556.608"/>
+
+<Sync time="1559.432"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1571.613" endTime="1826.165">
+<Sync time="1571.613"/>
+
+<Sync time="1572.239"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1575.235"/>
+
+<Sync time="1579.346"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1610.603"/>
+
+<Sync time="1611.664"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1701.38"/>
+
+<Sync time="1702.245"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1705.723"/>
+
+<Sync time="1706.572"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1708.613"/>
+
+<Sync time="1710.048"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1712.494"/>
+
+<Sync time="1714.612"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1718.976"/>
+
+<Sync time="1719.362"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1721.785"/>
+
+<Sync time="1722.905"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1725.15"/>
+
+<Sync time="1727.71"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1729.963"/>
+
+<Sync time="1730.998"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1732.927"/>
+
+<Sync time="1734.088"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1745.705"/>
+
+<Sync time="1747.425"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1749.224"/>
+
+<Sync time="1750.185"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1789.351"/>
+
+<Sync time="1790.415"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1793.209"/>
+
+<Sync time="1793.597"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1795.084"/>
+
+<Sync time="1796.898"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1806.547"/>
+
+<Sync time="1808.336"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1811.133"/>
+
+<Sync time="1811.913"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1814.159"/>
+
+<Sync time="1815.929"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1817.685"/>
+
+<Sync time="1819.177"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1820.512"/>
+
+<Sync time="1821.389"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1826.165" endTime="1828.246">
+<Sync time="1826.165"/>
+
+<Sync time="1827.323"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1828.246" endTime="1866.114">
+<Sync time="1828.246"/>
+
+<Sync time="1829.117"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1831.816"/>
+
+<Sync time="1832.694"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1836.995"/>
+
+<Sync time="1837.809"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1839.713"/>
+
+<Sync time="1841.003"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1843.216"/>
+
+<Sync time="1844.374"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1845.858"/>
+
+<Sync time="1847.763"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1849.809"/>
+
+<Sync time="1850.644"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1853.355"/>
+
+<Sync time="1855.505"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1859.024"/>
+
+<Sync time="1862.543"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1866.114" endTime="1870.868">
+<Sync time="1866.114"/>
+
+<Sync time="1867.275"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1870.868" endTime="1892.32">
+<Sync time="1870.868"/>
+
+<Sync time="1872.467"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1874.061"/>
+
+<Sync time="1874.959"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1877.142"/>
+
+<Sync time="1878.447"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1892.32" endTime="1908.88">
+<Sync time="1892.32"/>
+
+<Sync time="1893.383"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1897.788"/>
+
+<Sync time="1899.624"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1904.225"/>
+
+<Sync time="1905.959"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1908.88" endTime="2029.492">
+<Sync time="1908.88"/>
+
+<Sync time="1910.0"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="1912.149"/>
+
+<Sync time="1912.991"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2007.898"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="2021.002"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2029.492" endTime="2033.549">
+<Sync time="2029.492"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2030.145"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2033.549" endTime="2040.907">
+<Sync time="2033.549"/>
+
+<Sync time="2033.999"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2035.323"/>
+
+<Sync time="2035.772"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2036.916"/>
+
+<Sync time="2038.712"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2040.907" endTime="2043.728">
+<Sync time="2040.907"/>
+
+<Sync time="2043.320"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2043.728" endTime="2049.827">
+<Sync time="2043.728"/>
+
+<Sync time="2047.797"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2049.827" endTime="2052.559">
+<Sync time="2049.827"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2052.559" endTime="2058.98">
+<Sync time="2052.559"/>
+
+<Sync time="2057.449"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2058.98" endTime="2073.316">
+<Sync time="2058.98"/>
+
+<Sync time="2059.796"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2060.937"/>
+
+<Sync time="2062.284"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2063.041"/>
+
+<Sync time="2064.205"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2065.187"/>
+
+<Sync time="2068.128"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2068.822"/>
+
+<Sync time="2071.375"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2073.316" endTime="2107.477">
+<Sync time="2073.316"/>
+
+<Sync time="2074.298"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2075.388"/>
+
+<Sync time="2079.904"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2081.588"/>
+
+<Sync time="2084.351"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2085.701"/>
+
+<Sync time="2089.14"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2090.225"/>
+
+<Sync time="2093.21"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2094.763"/>
+
+<Sync time="2095.152"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2096.374"/>
+
+<Sync time="2097.774"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2098.897"/>
+
+<Sync time="2101.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2102.375"/>
+
+<Sync time="2103.437"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2107.477" endTime="2128.005">
+<Sync time="2107.477"/>
+
+<Sync time="2108.737"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2110.568"/>
+
+<Sync time="2113.192"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2114.354"/>
+
+<Sync time="2117.695"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2118.411"/>
+
+<Sync time="2120.687"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2122.011"/>
+
+<Sync time="2122.522"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2123.4"/>
+
+<Sync time="2124.527"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2128.005" endTime="2191.778">
+<Sync time="2128.005"/>
+
+<Sync time="2128.332"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2130.627"/>
+
+<Sync time="2131.888"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2133.323"/>
+
+<Sync time="2135.605"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2138.072"/>
+
+<Sync time="2141.143"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2143.477"/>
+
+<Sync time="2147.291"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2148.27"/>
+
+<Sync time="2152.711"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2153.545"/>
+
+<Sync time="2158.803"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2159.603"/>
+
+<Sync time="2163.57"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2165.039"/>
+
+<Sync time="2170.634"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2172.755"/>
+
+<Sync time="2173.101"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2175.003"/>
+
+<Sync time="2176.981"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2177.876"/>
+
+<Sync time="2180.179"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2180.812"/>
+
+<Sync time="2183.841"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2191.778" endTime="2215.275">
+<Sync time="2191.778"/>
+
+<Sync time="2192.734"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2194.502"/>
+
+<Sync time="2198.109"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2202.167"/>
+
+<Sync time="2202.74"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2204.047"/>
+
+<Sync time="2205.134"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2207.67"/>
+
+<Sync time="2208.506"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2210.989"/>
+
+<Sync time="2212.376"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2215.275" endTime="2222.364">
+<Sync time="2215.275"/>
+
+<Sync time="2215.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2217.651"/>
+
+<Sync time="2219.419"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2222.364" endTime="2238.372">
+<Sync time="2222.364"/>
+
+<Sync time="2222.939"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2224.108"/>
+
+<Sync time="2229.173"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2230.971"/>
+
+<Sync time="2233.068"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2234.823"/>
+
+<Sync time="2236.288"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2238.372" endTime="2245.893">
+<Sync time="2238.372"/>
+
+<Sync time="2239.346"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2240.527"/>
+
+<Sync time="2242.136"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2245.893" endTime="2256.681">
+<Sync time="2245.893"/>
+
+<Sync time="2246.913"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2248.27"/>
+
+<Sync time="2249.369"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2256.681" endTime="2276.066">
+<Sync time="2256.681"/>
+
+<Sync time="2257.15"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2258.78"/>
+
+<Sync time="2262.468"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2263.323"/>
+
+<Sync time="2265.519"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2266.898"/>
+
+<Sync time="2271.187"/>
+
+<Sync time="2274.395"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2276.066" endTime="2285.18">
+<Sync time="2276.066"/>
+
+<Sync time="2277.407"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2278.358"/>
+
+<Sync time="2280.065"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2281.308"/>
+
+<Sync time="2283.793"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2285.18" endTime="2298.634">
+<Sync time="2285.18"/>
+
+<Sync time="2286.014"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2286.992"/>
+
+<Sync time="2289.288"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2290.084"/>
+
+<Sync time="2294.903"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2298.634" endTime="2319.962">
+<Sync time="2298.634"/>
+
+<Sync time="2299.734"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2301.892"/>
+
+<Sync time="2302.922"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2303.94"/>
+
+<Sync time="2305.425"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2306.485"/>
+
+<Sync time="2310.066"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2311.566"/>
+
+<Sync time="2313.664"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2314.337"/>
+
+<Sync time="2317.632"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2319.962" endTime="2335.535">
+<Sync time="2319.962"/>
+
+<Sync time="2321.533"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2322.681"/>
+
+<Sync time="2324.68"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2326.087"/>
+
+<Sync time="2326.603"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2327.7"/>
+
+<Sync time="2329.198"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2335.535" endTime="2342.72">
+<Sync time="2335.535"/>
+
+<Sync time="2336.089"/>
+
+<Sync time="2339.082"/>
+
+<Sync time="2340.31"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2342.72" endTime="2351.316">
+<Sync time="2342.72"/>
+
+<Sync time="2343.393"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2351.316" endTime="2357.128">
+<Sync time="2351.316"/>
+
+<Sync time="2352.277"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2357.128" endTime="2365.074">
+<Sync time="2357.128"/>
+
+<Sync time="2360.171"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2365.074" endTime="2370.361">
+<Sync time="2365.074"/>
+
+<Sync time="2366.646"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2368.058"/>
+
+<Sync time="2369.29"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2370.361" endTime="2373.333">
+<Sync time="2370.361"/>
+
+<Sync time="2372.768"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2373.333" endTime="2377.939">
+<Sync time="2373.333"/>
+
+<Sync time="2373.906"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2377.939" endTime="2399.547">
+<Sync time="2377.939"/>
+
+<Sync time="2380.126"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2382.388"/>
+
+<Sync time="2383.34"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2384.286"/>
+
+<Sync time="2388.055"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2391.521"/>
+
+<Sync time="2395.111"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2399.547" endTime="2403.956">
+<Sync time="2399.547"/>
+
+<Sync time="2403.194"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2403.956" endTime="2408.213">
+<Sync time="2403.956"/>
+
+<Sync time="2404.57"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2408.213" endTime="2420.417">
+<Sync time="2408.213"/>
+
+<Sync time="2410.766"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2412.207"/>
+
+<Sync time="2413.494"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2414.981"/>
+
+<Sync time="2417.185"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2420.417" endTime="2457.904">
+<Sync time="2420.417"/>
+
+<Sync time="2423.52"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2427.613"/>
+
+<Sync time="2428.043"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2431.879"/>
+
+<Sync time="2432.961"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2434.651"/>
+
+<Sync time="2436.431"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2438.877"/>
+
+<Sync time="2441.217"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2442.843"/>
+
+<Sync time="2444.428"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2445.388"/>
+
+<Sync time="2446.643"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2450.094"/>
+
+<Sync time="2452.085"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2453.536"/>
+
+<Sync time="2454.318"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2457.904" endTime="2470.088">
+<Sync time="2457.904"/>
+
+<Sync time="2458.622"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2461.533"/>
+
+<Sync time="2463.077"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2466.107"/>
+
+<Sync time="2468.735"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2470.088" endTime="2486.785">
+<Sync time="2470.088"/>
+
+<Sync time="2470.485"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2472.025"/>
+
+<Sync time="2472.705"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2473.941"/>
+
+<Sync time="2479.019"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2486.785" endTime="2497.72">
+<Sync time="2486.785"/>
+
+<Sync time="2487.214"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2489.121"/>
+
+<Sync time="2490.729"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2491.92"/>
+
+<Sync time="2494.51"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2497.72" endTime="2514.304">
+<Sync time="2497.72"/>
+
+<Sync time="2498.312"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2499.42"/>
+
+<Sync time="2502.771"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2503.467"/>
+
+<Sync time="2507.353"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2512.227"/>
+
+<Sync time="2512.904"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2514.304" endTime="2518.238">
+<Sync time="2514.304"/>
+
+<Sync time="2514.525"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2518.238" endTime="2644.367">
+<Sync time="2518.238"/>
+
+<Sync time="2518.668"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2576.291"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2577.009"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2602.163"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="2614.87"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2623.383"/>
+
+<Sync time="2626.972"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2644.367" endTime="2655.506">
+<Sync time="2644.367"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2645.425"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2646.938"/>
+
+<Sync time="2648.663"/>
+
+<Sync time="2652.376"/>
+
+<Sync time="2654.339"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2655.506" endTime="2656.814">
+<Sync time="2655.506"/>
+
+<Sync time="2656.203"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2656.814" endTime="2664.164">
+<Sync time="2656.814"/>
+
+<Sync time="2660.728"/>
+
+<Sync time="2663.417"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2664.164" endTime="2665.886">
+<Sync time="2664.164"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2665.886" endTime="2679.106">
+<Sync time="2665.886"/>
+
+<Sync time="2666.806"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2667.678"/>
+
+<Sync time="2669.501"/>
+
+<Sync time="2674.015"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2674.53"/>
+
+<Sync time="2678.420"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2679.106" endTime="2696.698">
+<Sync time="2679.106"/>
+
+<Sync time="2680.051"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2682.667"/>
+
+<Sync time="2688.045"/>
+
+<Sync time="2689.745"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2696.698" endTime="2700.484">
+<Sync time="2696.698"/>
+
+<Sync time="2698.852"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2700.484" endTime="2701.949">
+<Sync time="2700.484"/>
+
+<Sync time="2701.384"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2701.949" endTime="2709.1">
+<Sync time="2701.949"/>
+
+<Sync time="2704.808"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2707.424"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2709.1" endTime="2712.398">
+<Sync time="2709.1"/>
+
+<Sync time="2711.069"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2712.398" endTime="2721.954">
+<Sync time="2712.398"/>
+
+<Sync time="2714.853"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2716.485"/>
+
+<Sync time="2718.494"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2721.954" endTime="2728.276">
+<Sync time="2721.954"/>
+
+<Sync time="2726.915"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2728.276" endTime="2736.429">
+<Sync time="2728.276"/>
+
+<Sync time="2729.028"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2729.936"/>
+
+<Sync time="2734.626"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2736.429" endTime="2744.341">
+<Sync time="2736.429"/>
+
+<Sync time="2741.131"/>
+
+<Sync time="2743.776"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2744.341" endTime="2754.416">
+<Sync time="2744.341"/>
+
+<Sync time="2745.153"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2746.31"/>
+
+<Sync time="2749.856"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2750.629"/>
+
+<Sync time="2753.996"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2754.416" endTime="2761.154">
+<Sync time="2754.416"/>
+
+<Sync time="2755.704"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2756.56"/>
+
+<Sync time="2760.589"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2761.154" endTime="2779.566">
+<Sync time="2761.154"/>
+
+<Sync time="2764.128"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2765.34"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2766.661"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2779.566" endTime="2799.776">
+<Sync time="2779.566"/>
+
+<Sync time="2782.654"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2783.381"/>
+
+<Sync time="2784.624"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2786.266"/>
+
+<Sync time="2789.687"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2792.512"/>
+
+<Sync time="2795.466"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2799.776" endTime="2804.478">
+<Sync time="2799.776"/>
+
+<Sync time="2800.138"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2801.114"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2804.478" endTime="2821.764">
+<Sync time="2804.478"/>
+
+<Sync time="2806.497"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2821.764" endTime="2838.361">
+<Sync time="2821.764"/>
+
+<Sync time="2822.376"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2838.361" endTime="2839.603">
+<Sync time="2838.361"/>
+
+<Sync time="2838.811"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2839.603" endTime="2851.135">
+<Sync time="2839.603"/>
+
+<Sync time="2842.19"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2844.491"/>
+
+<Sync time="2847.803"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2851.135" endTime="2857.725">
+<Sync time="2851.135"/>
+
+<Sync time="2851.726"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2857.725" endTime="2904.068">
+<Sync time="2857.725"/>
+
+<Sync time="2858.151"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2866.673"/>
+
+<Sync time="2869.406"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2874.856"/>
+
+<Sync time="2876.199"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2877.226"/>
+
+<Sync time="2878.491"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2879.552"/>
+
+<Sync time="2881.75"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="2883.889"/>
+
+<Sync time="2889.07"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2890.364"/>
+
+<Sync time="2894.489"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2895.805"/>
+
+<Sync time="2897.098"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2898.096"/>
+
+<Sync time="2899.143"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2900.382"/>
+
+<Sync time="2903.522"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2904.068" endTime="2906.437">
+<Sync time="2904.068"/>
+
+<Sync time="2905.932"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2906.437" endTime="2927.062">
+<Sync time="2906.437"/>
+
+<Sync time="2907.57"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2908.723"/>
+
+<Sync time="2910.305"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2911.415"/>
+
+<Sync time="2913.907"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2915.617"/>
+
+<Sync time="2917.493"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2918.808"/>
+
+<Sync time="2920.185"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2921.641"/>
+
+<Sync time="2922.591"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2923.724"/>
+
+<Sync time="2924.775"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2927.062" endTime="2929.327">
+<Sync time="2927.062"/>
+
+<Sync time="2927.891"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2929.327" endTime="2948.704">
+<Sync time="2929.327"/>
+
+<Sync time="2930.094"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2932.702"/>
+
+<Sync time="2935.651"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2936.863"/>
+
+<Sync time="2937.915"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2938.664"/>
+
+<Sync time="2939.474"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2941.395"/>
+
+<Sync time="2942.954"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2944.33"/>
+
+<Sync time="2947.143"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2948.704" endTime="2949.92">
+<Sync time="2948.704"/>
+
+<Sync time="2949.211"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2949.92" endTime="2999.684">
+<Sync time="2949.92"/>
+
+<Sync time="2950.224"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2953.949"/>
+
+<Sync time="2954.946"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2957.139"/>
+
+<Sync time="2960.033"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2961.288"/>
+
+<Sync time="2962.339"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2964.527"/>
+
+<Sync time="2967.422"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2969.635"/>
+
+<Sync time="2970.871"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2973.035"/>
+
+<Sync time="2976.335"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2978.211"/>
+
+<Sync time="2978.908"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2981.128"/>
+
+<Sync time="2982.928"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2983.963"/>
+
+<Sync time="2984.871"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2985.613"/>
+
+<Sync time="2987.159"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2988.619"/>
+
+<Sync time="2990.06"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2992.867"/>
+
+<Sync time="2994.306"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2995.487"/>
+
+<Sync time="2998.259"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2999.684" endTime="3006.612">
+<Sync time="2999.684"/>
+
+<Sync time="3001.252"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3002.425"/>
+
+<Sync time="3003.344"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3004.69"/>
+
+<Sync time="3005.203"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="3006.612" endTime="3048.749">
+<Sync time="3006.612"/>
+
+<Sync time="3007.107"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3008.609"/>
+
+<Sync time="3011.382"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3012.51"/>
+
+<Sync time="3014.467"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3015.469"/>
+
+<Sync time="3018.673"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3019.233"/>
+
+<Sync time="3021.296"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3022.428"/>
+
+<Sync time="3024.654"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3026.799"/>
+
+<Sync time="3028.641"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3029.388"/>
+
+<Sync time="3032.732"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3034.383"/>
+
+<Sync time="3037.147"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3038.789"/>
+
+<Sync time="3041.094"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3043.35"/>
+
+<Sync time="3044.548"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3046.049"/>
+
+<Sync time="3047.307"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3048.749" endTime="3051.969">
+<Sync time="3048.749"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="3051.969" endTime="3090.522">
+<Sync time="3051.969"/>
+
+<Sync time="3052.463"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3053.417"/>
+
+<Sync time="3055.76"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3056.873"/>
+
+<Sync time="3060.507"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3062.55"/>
+
+<Sync time="3066.094"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3067.761"/>
+
+<Sync time="3069.347"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3071.926"/>
+
+<Sync time="3075.637"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3077.237"/>
+
+<Sync time="3079.854"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3081.493"/>
+
+<Sync time="3082.53"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3083.92"/>
+
+<Sync time="3084.827"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3090.522" endTime="3154.702">
+<Sync time="3090.522"/>
+
+<Sync time="3091.537"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3093.433"/>
+
+<Sync time="3096.714"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3097.376"/>
+
+<Sync time="3098.427"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3099.569"/>
+
+<Sync time="3100.727"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3102.111"/>
+
+<Sync time="3105.809"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3107.815"/>
+
+<Sync time="3112.219"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3113.023"/>
+
+<Sync time="3114.344"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3115.719"/>
+
+<Sync time="3118.151"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3125.133"/>
+
+<Sync time="3126.882"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3128.039"/>
+
+<Sync time="3130.377"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3131.285"/>
+
+<Sync time="3132.547"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3133.66"/>
+
+<Sync time="3134.275"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3135.985"/>
+
+<Sync time="3136.869"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3140.098"/>
+
+<Sync time="3140.718"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3154.702" endTime="3200.505">
+<Sync time="3154.702"/>
+
+<Sync time="3155.711"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3163.49"/>
+
+<Sync time="3164.393"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3165.472"/>
+
+<Sync time="3167.073"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3169.085"/>
+
+<Sync time="3170.601"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3171.790"/>
+
+<Sync time="3172.771"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3173.656"/>
+
+<Sync time="3176.111"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3178.010"/>
+
+<Sync time="3181.351"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3182.756"/>
+
+<Sync time="3184.96"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3185.744"/>
+
+<Sync time="3189.791"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3190.953"/>
+
+<Sync time="3191.82"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3193.218"/>
+
+<Sync time="3194.456"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="3200.505" endTime="3250.058">
+<Sync time="3200.505"/>
+
+<Sync time="3202.634"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3203.938"/>
+
+<Sync time="3204.576"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3206.143"/>
+
+<Sync time="3208.31"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3210.291"/>
+
+<Sync time="3211.447"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3214.785"/>
+
+<Sync time="3218.005"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3220.094"/>
+
+<Sync time="3222.897"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3224.525"/>
+
+<Sync time="3226.441"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3228.151"/>
+
+<Sync time="3229.943"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3232.172"/>
+
+<Sync time="3235.559"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3238.696"/>
+
+<Sync time="3239.342"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3241.33"/>
+
+<Sync time="3242.258"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3244.163"/>
+
+<Sync time="3245.071"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3246.359"/>
+
+<Sync time="3247.452"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3250.058" endTime="3316.741">
+<Sync time="3250.058"/>
+
+<Sync time="3252.706"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3254.187"/>
+
+<Sync time="3257.083"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3258.091"/>
+
+<Sync time="3259.095"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3281.727"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="3295.207"/>
+
+<Sync time="3297.834"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3299.362"/>
+
+<Sync time="3302.224"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3303.214"/>
+
+<Sync time="3304.284"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3307.283"/>
+
+<Sync time="3309.767"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3316.741" endTime="3327.769">
+<Sync time="3316.741"/>
+
+<Sync time="3317.38"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3322.309"/>
+
+<Sync time="3323.174"/>
+
+<Sync time="3324.535"/>
+
+<Sync time="3325.193"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3327.769" endTime="3333.536">
+<Sync time="3327.769"/>
+
+<Sync time="3328.156"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3333.536" endTime="3338.492">
+<Sync time="3333.536"/>
+
+<Sync time="3335.013"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3336.372"/>
+
+<Sync time="3337.748"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3338.492" endTime="3341.72">
+<Sync time="3338.492"/>
+
+<Sync time="3340.838"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3341.72" endTime="3528.221">
+<Sync time="3341.72"/>
+
+<Sync time="3342.75"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3343.653"/>
+
+<Sync time="3344.599"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3346.166"/>
+
+<Sync time="3348.113"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3349.334"/>
+
+<Sync time="3351.566"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3353.277"/>
+
+<Sync time="3355.998"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3358.472"/>
+
+<Sync time="3359.977"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3361.537"/>
+
+<Sync time="3362.323"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3365.340"/>
+
+<Sync time="3366.626"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3371.552"/>
+
+<Sync time="3372.938"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3375.933"/>
+
+<Sync time="3377.111"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3380.572"/>
+
+<Sync time="3382.173"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3383.125"/>
+
+<Sync time="3384.136"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3386.614"/>
+
+<Sync time="3387.79"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3389.606"/>
+
+<Sync time="3390.312"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3391.41"/>
+
+<Sync time="3393.106"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3413.558"/>
+
+<Sync time="3414.135"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3416.203"/>
+
+<Sync time="3419.596"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3420.899"/>
+
+<Sync time="3422.056"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3424.819"/>
+
+<Sync time="3428.753"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3431.046"/>
+
+<Sync time="3432.775"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3438.414"/>
+
+<Sync time="3442.171"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3444.283"/>
+
+<Sync time="3445.956"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3447.378"/>
+
+<Sync time="3450.444"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3451.265"/>
+
+<Sync time="3452.585"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3454.047"/>
+
+<Sync time="3455.633"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3456.756"/>
+
+<Sync time="3458.793"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3459.967"/>
+
+<Sync time="3461.986"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3463.22"/>
+
+<Sync time="3464.041"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3470.393"/>
+
+<Sync time="3471.308"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3472.503"/>
+
+<Sync time="3473.697"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3474.747"/>
+
+<Sync time="3475.533"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3477.157"/>
+
+<Sync time="3479.419"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3480.801"/>
+
+<Sync time="3481.399"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3482.678"/>
+
+<Sync time="3483.769"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3492.282"/>
+
+<Sync time="3493.314"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3507.876"/>
+
+<Sync time="3508.806"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3509.693"/>
+
+<Sync time="3510.579"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3511.924"/>
+
+<Sync time="3514.220"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3515.889"/>
+
+<Sync time="3517.068"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3519.068"/>
+
+<Sync time="3520.32"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3528.221" endTime="3544.841">
+<Sync time="3528.221"/>
+
+<Sync time="3529.628"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3531.172"/>
+
+<Sync time="3532.305"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="3544.841" endTime="3556.466">
+<Sync time="3544.841"/>
+
+<Sync time="3545.172"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3547.085"/>
+
+<Sync time="3547.874"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3549.940"/>
+
+<Sync time="3550.968"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="3556.466" endTime="3566.153">
+<Sync time="3556.466"/>
+
+<Sync time="3557.121"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3558.514"/>
+
+<Sync time="3561.485"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3564.282"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3566.153" endTime="3599.758">
+<Sync time="3566.153"/>
+
+<Sync time="3568.338"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3571.12"/>
+
+<Sync time="3572.374"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3573.941"/>
+
+<Sync time="3575.031"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3576.413"/>
+
+<Sync time="3577.734"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3599.758" endTime="3602.332">
+<Sync time="3599.758"/>
+
+<Sync time="3601.282"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3602.332" endTime="3605.048">
+<Sync time="3602.332"/>
+
+<Sync time="3603.877"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3605.048" endTime="3609.417">
+<Sync time="3605.048"/>
+
+<Sync time="3607.811"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3609.417" endTime="3613.266">
+<Sync time="3609.417"/>
+
+<Sync time="3612.522"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3613.266" endTime="3616.297">
+<Sync time="3613.266"/>
+
+<Sync time="3615.435"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3616.297" endTime="3620.762">
+<Sync time="3616.297"/>
+
+<Sync time="3616.955"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3620.762" endTime="3631.397">
+<Sync time="3620.762"/>
+
+<Sync time="3623.754"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3624.557"/>
+
+<Sync time="3625.909"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3626.442"/>
+
+<Sync time="3630.32"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3631.397" endTime="3636.213">
+<Sync time="3631.397"/>
+
+<Sync time="3635.37"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3636.213" endTime="3653.129">
+<Sync time="3636.213"/>
+
+<Sync time="3638.608"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3639.39"/>
+
+<Sync time="3640.998"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3642.014"/>
+
+<Sync time="3642.966"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3643.851"/>
+
+<Sync time="3646.184"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3646.677"/>
+
+<Sync time="3647.488"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3648.023"/>
+
+<Sync time="3651.392"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3653.129" endTime="3655.677">
+<Sync time="3653.129"/>
+
+<Sync time="3654.28"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3655.677" endTime="3665.944">
+<Sync time="3655.677"/>
+
+<Sync time="3658.861"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3659.442"/>
+
+<Sync time="3661.344"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3661.872"/>
+
+<Sync time="3665.473"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3665.944" endTime="3674.034">
+<Sync time="3665.944"/>
+
+<Sync time="3669.15"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3669.791"/>
+
+<Sync time="3672.879"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3674.034" endTime="3678.179">
+<Sync time="3674.034"/>
+
+<Sync time="3675.538"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3676.259"/>
+
+<Sync time="3677.313"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3678.179" endTime="3691.223">
+<Sync time="3678.179"/>
+
+<Sync time="3680.268"/>
+
+<Sync time="3684.412"/>
+
+<Sync time="3687.795"/>
+
+<Sync time="3690.131"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3691.223" endTime="3694.731">
+<Sync time="3691.223"/>
+
+<Sync time="3693.72"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3694.731" endTime="3698.402">
+<Sync time="3694.731"/>
+
+<Sync time="3695.766"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3696.584"/>
+
+<Sync time="3697.554"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3698.402" endTime="3700.059">
+<Sync time="3698.402"/>
+
+<Sync time="3699.063"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3700.059" endTime="3736.49">
+<Sync time="3700.059"/>
+
+<Sync time="3703.768"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3704.385"/>
+
+<Sync time="3709.199"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3710.608"/>
+
+<Sync time="3711.789"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3712.592"/>
+
+<Sync time="3718.273"/>
+
+<Sync time="3719.136"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3722.06"/>
+
+<Sync time="3722.426"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3723.059"/>
+
+<Sync time="3727.634"/>
+
+<Sync time="3730.427"/>
+
+<Sync time="3734.686"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3736.49" endTime="3764.256">
+<Sync time="3736.49"/>
+
+<Sync time="3736.988"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3737.693"/>
+
+<Sync time="3740.754"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3741.845"/>
+
+<Sync time="3745.748"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3746.651"/>
+
+<Sync time="3750.484"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3751.085"/>
+
+<Sync time="3755.079"/>
+
+<Sync time="3756.657"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3757.348"/>
+
+<Sync time="3759.936"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3760.570"/>
+
+<Sync time="3763.407"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3764.256" endTime="3784.182">
+<Sync time="3764.256"/>
+
+<Sync time="3766.123"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3766.863"/>
+
+<Sync time="3770.745"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3771.302"/>
+
+<Sync time="3774.816"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3775.146"/>
+
+<Sync time="3778.479"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3778.832"/>
+
+<Sync time="3780.132"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3781.332"/>
+
+<Sync time="3783.124"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3784.182" endTime="3787.039">
+<Sync time="3784.182"/>
+
+<Sync time="3786.437"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3787.039" endTime="3815.252">
+<Sync time="3787.039"/>
+
+<Sync time="3787.839"/>
+
+<Sync time="3791.053"/>
+
+<Sync time="3793.252"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3794.226"/>
+
+<Sync time="3798.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3799.22"/>
+
+<Sync time="3799.902"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3800.747"/>
+
+<Sync time="3804.829"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3805.415"/>
+
+<Sync time="3810.619"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3811.263"/>
+
+<Sync time="3814.163"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3815.252" endTime="3824.851">
+<Sync time="3815.252"/>
+
+<Sync time="3815.728"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3816.311"/>
+
+<Sync time="3818.063"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3818.685"/>
+
+<Sync time="3820.74"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3821.236"/>
+
+<Sync time="3823.081"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3824.851" endTime="3835.575">
+<Sync time="3824.851"/>
+
+<Sync time="3828.112"/>
+
+<Sync time="3829.809"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3830.775"/>
+
+<Sync time="3831.252"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3831.722"/>
+
+<Sync time="3833.383"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3833.857"/>
+
+<Sync time="3834.626"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3835.575" endTime="3836.939">
+<Sync time="3835.575"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3836.939" endTime="3841.088">
+<Sync time="3836.939"/>
+
+<Sync time="3838.799"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3841.088" endTime="3849.888">
+<Sync time="3841.088"/>
+
+<Sync time="3841.948"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3842.504"/>
+
+<Sync time="3843.412"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3844.176"/>
+
+<Sync time="3846.003"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3846.582"/>
+
+<Sync time="3848.912"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3849.888" endTime="3855.68">
+<Sync time="3849.888"/>
+
+<Sync time="3850.775"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3851.503"/>
+
+<Sync time="3854.445"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3855.68" endTime="3858.375">
+<Sync time="3855.68"/>
+
+<Sync time="3856.276"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="3858.375" endTime="3868.061">
+<Sync time="3858.375"/>
+
+<Sync time="3862.611"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3868.061" endTime="3876.224">
+<Sync time="3868.061"/>
+
+<Sync time="3870.741"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3871.63"/>
+
+<Sync time="3874.800"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3876.224" endTime="3888.999">
+<Sync time="3876.224"/>
+
+<Sync time="3877.752"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3878.54"/>
+
+<Sync time="3881.213"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3882.718"/>
+
+<Sync time="3886.209"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3888.999" endTime="3909.748">
+<Sync time="3888.999"/>
+
+<Sync time="3891.614"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3895.879"/>
+
+<Sync time="3900.684"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3901.327"/>
+
+<Sync time="3905.409"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3909.748" endTime="3930.11">
+<Sync time="3909.748"/>
+
+<Sync time="3914.522"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3915.411"/>
+
+<Sync time="3920.542"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3921.658"/>
+
+<Sync time="3924.747"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3925.457"/>
+
+<Sync time="3929.12"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="3930.11" endTime="3933.752">
+<Sync time="3930.11"/>
+
+<Sync time="3933.153"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3933.752" endTime="3949.799">
+<Sync time="3933.752"/>
+
+<Sync time="3935.257"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3936.021"/>
+
+<Sync time="3939.492"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3940.075"/>
+
+<Sync time="3940.777"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="3949.799" endTime="3952.603">
+<Sync time="3949.799"/>
+
+<Sync time="3951.982"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="3952.603" endTime="3966.529">
+<Sync time="3952.603"/>
+
+<Sync time="3953.359"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3956.34"/>
+
+<Sync time="3958.734"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3959.681"/>
+
+<Sync time="3961.949"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="3966.529" endTime="3966.945">
+<Sync time="3966.529"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="3966.945" endTime="3968.867">
+<Sync time="3966.945"/>
+
+<Sync time="3967.705"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="3968.867" endTime="3975.851">
+<Sync time="3968.867"/>
+
+<Sync time="3971.530"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3971.983"/>
+
+<Sync time="3975.341"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="3975.851" endTime="3978.937">
+<Sync time="3975.851"/>
+
+<Sync time="3976.595"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="3978.937" endTime="3985.271">
+<Sync time="3978.937"/>
+
+<Sync time="3983.259"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="3985.271" endTime="3986.646">
+<Sync time="3985.271"/>
+
+<Sync time="3986.056"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="3986.646" endTime="4013.876">
+<Sync time="3986.646"/>
+
+<Sync time="3986.881"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3987.515"/>
+
+<Sync time="3988.785"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3989.672"/>
+
+<Sync time="3993.293"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="3993.978"/>
+
+<Sync time="3996.616"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="3997.47"/>
+
+<Sync time="4002.16"/>
+
+<Sync time="4004.294"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4005.043"/>
+
+<Sync time="4006.81"/>
+
+<Sync time="4011.823"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4013.876" endTime="4017.237">
+<Sync time="4013.876"/>
+
+<Sync time="4016.598"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4017.237" endTime="4028.604">
+<Sync time="4017.237"/>
+
+<Sync time="4019.184"/>
+
+<Sync time="4022.343"/>
+
+<Sync time="4026.999"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="4028.604" endTime="4031.488">
+<Sync time="4028.604"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="4031.488" endTime="4044.322">
+<Sync time="4031.488"/>
+
+<Sync time="4032.957"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4034.113"/>
+
+<Sync time="4034.515"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4034.947"/>
+
+<Sync time="4037.129"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4044.322" endTime="4045.872">
+<Sync time="4044.322"/>
+
+<Sync time="4044.982"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4045.872" endTime="4054.147">
+<Sync time="4045.872"/>
+
+<Sync time="4047.193"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4050.812"/>
+
+<Sync time="4052.499"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4054.147" endTime="4059.136">
+<Sync time="4054.147"/>
+
+<Sync time="4055.94"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4056.624"/>
+
+<Sync time="4058.189"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4059.136" endTime="4082.369">
+<Sync time="4059.136"/>
+
+<Sync time="4061.743"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4062.835"/>
+
+<Sync time="4068.105"/>
+
+<Sync time="4073.899"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4074.134"/>
+
+<Sync time="4075.311"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4075.694"/>
+
+<Sync time="4080.648"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4081.339"/>
+
+<Sync time="4081.791"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4082.369" endTime="4121.64">
+<Sync time="4082.369"/>
+
+<Sync time="4086.060"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4108.52"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4121.64" endTime="4129.363">
+<Sync time="4121.64"/>
+
+<Sync time="4126.74"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4127.503"/>
+
+<Sync time="4127.918"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4129.363" endTime="4138.345">
+<Sync time="4129.363"/>
+
+<Sync time="4132.877"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4138.345" endTime="4157.995">
+<Sync time="4138.345"/>
+
+<Sync time="4140.732"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4141.182"/>
+
+<Sync time="4144.566"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4145.431"/>
+
+<Sync time="4147.573"/>
+
+<Sync time="4149.327"/>
+
+<Sync time="4152.766"/>
+
+<Sync time="4155.969"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4157.995" endTime="4163.895">
+<Sync time="4157.995"/>
+
+<Sync time="4161.449"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4163.895" endTime="4185.99">
+<Sync time="4163.895"/>
+
+<Sync time="4164.492"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4165.731"/>
+
+<Sync time="4166.866"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4167.839"/>
+
+<Sync time="4170.579"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4171.118"/>
+
+<Sync time="4174.339"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4175.971"/>
+
+<Sync time="4180.513"/>
+
+<Sync time="4185.407"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4185.99" endTime="4189.348">
+<Sync time="4185.99"/>
+
+<Sync time="4187.987"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4189.348" endTime="4198.167">
+<Sync time="4189.348"/>
+
+<Sync time="4190.22"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4191.65"/>
+
+<Sync time="4194.997"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4198.167" endTime="4200.559">
+<Sync time="4198.167"/>
+
+<Sync time="4199.198"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4200.559" endTime="4202.559">
+<Sync time="4200.559"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4202.559" endTime="4203.783">
+<Sync time="4202.559"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4203.783" endTime="4211.01">
+<Sync time="4203.783"/>
+
+<Sync time="4205.307"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4211.01" endTime="4211.951">
+<Sync time="4211.01"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4211.951" endTime="4214.744">
+<Sync time="4211.951"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4214.744" endTime="4218.313">
+<Sync time="4214.744"/>
+
+<Sync time="4217.296"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4218.313" endTime="4223.466">
+<Sync time="4218.313"/>
+
+<Sync time="4220.922"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4221.375"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4223.466" endTime="4225.116">
+<Sync time="4223.466"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4225.116" endTime="4227.061">
+<Sync time="4225.116"/>
+
+<Sync time="4226.174"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4227.061" endTime="4243.161">
+<Sync time="4227.061"/>
+
+<Sync time="4228.114"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4229.243"/>
+
+<Sync time="4232.964"/>
+
+<Sync time="4236.484"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4237.205"/>
+
+<Sync time="4238.909"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4240.212"/>
+
+<Sync time="4242.379"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4243.161" endTime="4244.798">
+<Sync time="4243.161"/>
+
+<Sync time="4244.178"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4244.798" endTime="4250.229">
+<Sync time="4244.798"/>
+
+<Sync time="4245.29"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4249.176"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4250.229" endTime="4251.403">
+<Sync time="4250.229"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4251.403" endTime="4262.942">
+<Sync time="4251.403"/>
+
+<Sync time="4253.34"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4254.429"/>
+
+<Sync time="4255.666"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4258.167"/>
+
+<Sync time="4260.472"/>
+
+<Sync time="4262.282"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4262.942" endTime="4263.892">
+<Sync time="4262.942"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4263.892" endTime="4266.082">
+<Sync time="4263.892"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4266.082" endTime="4271.14">
+<Sync time="4266.082"/>
+
+<Sync time="4269.185"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4271.14" endTime="4277.689">
+<Sync time="4271.14"/>
+
+<Sync time="4274.081"/>
+
+<Sync time="4276.383"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4277.689" endTime="4289.359">
+<Sync time="4277.689"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="4279.192"/>
+
+<Sync time="4282.217"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4282.751"/>
+
+<Sync time="4287.359"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4287.808"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4289.359" endTime="4294.801">
+<Sync time="4289.359"/>
+
+<Sync time="4293.676"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4294.801" endTime="4320.455">
+<Sync time="4294.801"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="4296.686"/>
+
+<Sync time="4299.451"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4299.672"/>
+
+<Sync time="4303.815"/>
+
+<Sync time="4306.56"/>
+
+<Sync time="4309.242"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="4312.195"/>
+
+<Sync time="4314.388"/>
+
+<Sync time="4317.086"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4320.455" endTime="4331.782">
+<Sync time="4320.455"/>
+
+<Sync time="4324.354"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4325.198"/>
+
+<Sync time="4328.269"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4331.782" endTime="4338.338">
+<Sync time="4331.782"/>
+
+<Sync time="4332.868"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4333.286"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4338.338" endTime="4385.703">
+<Sync time="4338.338"/>
+
+<Sync time="4339.823"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4340.734"/>
+
+<Sync time="4343.7"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4345.714"/>
+
+<Sync time="4349.071"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4350.347"/>
+
+<Sync time="4352.473"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4352.985"/>
+
+<Sync time="4354.264"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4354.644"/>
+
+<Sync time="4359.645"/>
+
+<Sync time="4361.996"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4363.726"/>
+
+<Sync time="4365.425"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4367.484"/>
+
+<Sync time="4372.576"/>
+
+<Sync time="4375.362"/>
+
+<Sync time="4377.347"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4379.184"/>
+
+<Sync time="4380.291"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4381.947"/>
+
+<Sync time="4385.086"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4385.703" endTime="4440.827">
+<Sync time="4385.703"/>
+
+<Sync time="4387.027"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4387.766"/>
+
+<Sync time="4391.849"/>
+
+<Sync time="4395.109"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4395.551"/>
+
+<Sync time="4398.618"/>
+
+<Sync time="4401.218"/>
+
+<Sync time="4402.42"/>
+
+<Sync time="4406.533"/>
+
+<Sync time="4407.987"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4408.935"/>
+
+<Sync time="4411.341"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4411.833"/>
+
+<Sync time="4415.774"/>
+
+<Sync time="4418.528"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4419.682"/>
+
+<Sync time="4424.625"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4425.462"/>
+
+<Sync time="4428.532"/>
+
+<Sync time="4431.75"/>
+
+<Sync time="4433.501"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4434.1"/>
+
+<Sync time="4438.145"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4440.827" endTime="4453.823">
+<Sync time="4440.827"/>
+
+<Sync time="4441.324"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4442.064"/>
+
+<Sync time="4443.614"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4445.57"/>
+
+<Sync time="4447.985"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4449.241"/>
+
+<Sync time="4452.1"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4453.823" endTime="4458.276">
+<Sync time="4453.823"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4458.276" endTime="4468.746">
+<Sync time="4458.276"/>
+
+<Sync time="4461.341"/>
+
+<Sync time="4463.898"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4464.827"/>
+
+<Sync time="4467.47"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4468.746" endTime="4479.429">
+<Sync time="4468.746"/>
+
+<Sync time="4472.736"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4473.459"/>
+
+<Sync time="4475.146"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4475.704"/>
+
+<Sync time="4478.851"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4479.429" endTime="4486.02">
+<Sync time="4479.429"/>
+
+<Sync time="4480.322"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4481.624"/>
+
+<Sync time="4483.196"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4486.02" endTime="4493.552">
+<Sync time="4486.02"/>
+
+<Sync time="4487.072"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4487.735"/>
+
+<Sync time="4489.751"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4493.552" endTime="4509.911">
+<Sync time="4493.552"/>
+
+<Sync time="4495.359"/>
+
+<Sync time="4499.358"/>
+
+<Sync time="4505.443"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="4509.911" endTime="4521.358">
+<Sync time="4509.911"/>
+
+<Sync time="4513.227"/>
+
+<Sync time="4518.338"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4518.903"/>
+
+<Sync time="4520.475"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4521.358" endTime="4562.537">
+<Sync time="4521.358"/>
+
+<Sync time="4525.469"/>
+
+<Sync time="4528.147"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4562.537" endTime="4578.687">
+<Sync time="4562.537"/>
+
+<Sync time="4563.321"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4565.758"/>
+
+<Sync time="4566.497"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4569.431"/>
+
+<Sync time="4570.662"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4572.145"/>
+
+<Sync time="4573.545"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4578.687" endTime="4582.288">
+<Sync time="4578.687"/>
+
+<Sync time="4579.901"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="4582.288" endTime="4589.493">
+<Sync time="4582.288"/>
+
+<Sync time="4585.317"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4586.39"/>
+
+<Sync time="4588.042"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4589.493" endTime="4611.14">
+<Sync time="4589.493"/>
+
+<Sync time="4592.156"/>
+
+<Sync time="4597.182"/>
+
+<Sync time="4598.461"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4599.934"/>
+
+<Sync time="4602.458"/>
+
+<Sync time="4605.176"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4606.627"/>
+
+<Sync time="4608.205"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4611.14" endTime="4615.232">
+<Sync time="4611.14"/>
+
+<Sync time="4611.653"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4615.232" endTime="4628.205">
+<Sync time="4615.232"/>
+
+<Sync time="4615.727"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4617.124"/>
+
+<Sync time="4618.083"/>
+
+<Sync time="4620.547"/>
+
+<Sync time="4626.066"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4628.205" endTime="4646.94">
+<Sync time="4628.205"/>
+
+<Sync time="4631.701"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4632.841"/>
+
+<Sync time="4636.935"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4639.02"/>
+
+<Sync time="4641.602"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4642.49"/>
+
+<Sync time="4644.023"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4646.94" endTime="4663.961">
+<Sync time="4646.94"/>
+
+<Sync time="4649.951"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4650.715"/>
+
+<Sync time="4654.462"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4655.431"/>
+
+<Sync time="4657.87"/>
+
+<Sync time="4661.46"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4663.961" endTime="4678.616">
+<Sync time="4663.961"/>
+
+<Sync time="4665.338"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4666.245"/>
+
+<Sync time="4667.193"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4669.068"/>
+
+<Sync time="4670.346"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4671.982"/>
+
+<Sync time="4675.066"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4678.616" endTime="4691.002">
+<Sync time="4678.616"/>
+
+<Sync time="4680.798"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4682.470"/>
+
+<Sync time="4686.71"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4691.002" endTime="4694.797">
+<Sync time="4691.002"/>
+
+<Sync time="4692.115"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="4694.797" endTime="4704.665">
+<Sync time="4694.797"/>
+
+<Sync time="4695.355"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4696.365"/>
+
+<Sync time="4697.854"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4698.349"/>
+
+<Sync time="4700.457"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4704.665" endTime="4706.081">
+<Sync time="4704.665"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="4706.081" endTime="4717.241">
+<Sync time="4706.081"/>
+
+<Sync time="4707.437"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4708.652"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4709.379"/>
+
+<Sync time="4712.243"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4717.241" endTime="4747.958">
+<Sync time="4717.241"/>
+
+<Sync time="4720.714"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4722.489"/>
+
+<Sync time="4723.169"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4725.207"/>
+
+<Sync time="4727.165"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4728.895"/>
+
+<Sync time="4731.638"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4734.787"/>
+
+<Sync time="4736.279"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4737.831"/>
+
+<Sync time="4740.041"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4742.281"/>
+
+<Sync time="4746.549"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4747.958" endTime="4767.609">
+<Sync time="4747.958"/>
+
+<Sync time="4748.619"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4749.437"/>
+
+<Sync time="4753.079"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4753.62"/>
+
+<Sync time="4758.506"/>
+
+<Sync time="4760.862"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4762.639"/>
+
+<Sync time="4765.547"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="4767.609" endTime="4780.615">
+<Sync time="4767.609"/>
+
+<Sync time="4769.092"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4769.914"/>
+
+<Sync time="4771.629"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4773.167"/>
+
+<Sync time="4774.514"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="4780.615" endTime="4797.864">
+<Sync time="4780.615"/>
+
+<Sync time="4781.212"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4782.862"/>
+
+<Sync time="4784.819"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4785.933"/>
+
+<Sync time="4786.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4787.549"/>
+
+<Sync time="4789.073"/>
+
+<Sync time="4794.079"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="4797.864" endTime="4859.612">
+<Sync time="4797.864"/>
+
+<Sync time="4799.908"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4800.325"/>
+
+<Sync time="4804.934"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4805.471"/>
+
+<Sync time="4808.851"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4836.556"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="4849.53"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="4859.612" endTime="4956.154">
+<Sync time="4859.612"/>
+
+<Sync time="4861.103"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4861.761"/>
+
+<Sync time="4862.919"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4863.599"/>
+
+<Sync time="4864.713"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4865.226"/>
+
+<Sync time="4867.501"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4872.389"/>
+
+<Sync time="4875.917"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="4956.154" endTime="4996.203">
+<Sync time="4956.154"/>
+
+<Sync time="4956.689"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4957.761"/>
+
+<Sync time="4958.672"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4960.068"/>
+
+<Sync time="4962.789"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4964.34"/>
+
+<Sync time="4965.411"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4966.357"/>
+
+<Sync time="4967.965"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4968.98"/>
+
+<Sync time="4970.611"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4974.148"/>
+
+<Sync time="4975.518"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="4977.003"/>
+
+<Sync time="4980.187"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="4996.203" endTime="5006.05">
+<Sync time="4996.203"/>
+
+<Sync time="4996.759"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="4999.912"/>
+
+<Sync time="5000.472"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5002.046"/>
+
+<Sync time="5004.689"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5006.05" endTime="5008.008">
+<Sync time="5006.05"/>
+
+<Sync time="5006.835"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5008.008" endTime="5035.045">
+<Sync time="5008.008"/>
+
+<Sync time="5011.047"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5011.486"/>
+
+<Sync time="5013.079"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5014.33"/>
+
+<Sync time="5017.125"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5017.563"/>
+
+<Sync time="5019.274"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5026.823"/>
+
+<Sync time="5028.862"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5030.621"/>
+
+<Sync time="5031.057"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5031.658"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5035.045" endTime="5063.295">
+<Sync time="5035.045"/>
+
+<Sync time="5036.075"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5036.86"/>
+
+<Sync time="5041.089"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5063.295" endTime="5066.277">
+<Sync time="5063.295"/>
+
+<Sync time="5063.784"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5064.813"/>
+
+<Sync time="5065.392"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5066.277" endTime="5072.576">
+<Sync time="5066.277"/>
+
+<Sync time="5067.478"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5068.758"/>
+
+<Sync time="5069.975"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5072.576" endTime="5094.132">
+<Sync time="5072.576"/>
+
+<Sync time="5075.031"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5076.389"/>
+
+<Sync time="5078.747"/>
+
+<Sync time="5081.567"/>
+
+<Sync time="5083.977"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5085.787"/>
+
+<Sync time="5088.205"/>
+
+<Sync time="5090.441"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5094.132" endTime="5137.358">
+<Sync time="5094.132"/>
+
+<Sync time="5095.37"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5096.232"/>
+
+<Sync time="5097.386"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5098.785"/>
+
+<Sync time="5100.909"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5104.477"/>
+
+<Sync time="5105.175"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5107.817"/>
+
+<Sync time="5109.631"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5111.734"/>
+
+<Sync time="5112.501"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5113.552"/>
+
+<Sync time="5116.513"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5118.227"/>
+
+<Sync time="5120.525"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5121.463"/>
+
+<Sync time="5122.884"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5123.605"/>
+
+<Sync time="5124.883"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5127.027"/>
+
+<Sync time="5130.366"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5131.089"/>
+
+<Sync time="5132.355"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5134.027"/>
+
+<Sync time="5135.567"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5137.358" endTime="5138.273">
+<Sync time="5137.358"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5138.273" endTime="5159.431">
+<Sync time="5138.273"/>
+
+<Sync time="5138.981"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5140.059"/>
+
+<Sync time="5141.552"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5142.4"/>
+
+<Sync time="5145.611"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5146.465"/>
+
+<Sync time="5147.267"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5148.566"/>
+
+<Sync time="5150.664"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5152.598"/>
+
+<Sync time="5153.631"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5155.391"/>
+
+<Sync time="5156.556"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5159.431" endTime="5168.541">
+<Sync time="5159.431"/>
+
+<Sync time="5159.981"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5161.008"/>
+
+<Sync time="5163.517"/>
+
+<Sync time="5165.562"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5168.541" endTime="5218.973">
+<Sync time="5168.541"/>
+
+<Sync time="5169.341"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5170.306"/>
+
+<Sync time="5171.559"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5173.254"/>
+
+<Sync time="5175.179"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5177.067"/>
+
+<Sync time="5179.896"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5181.118"/>
+
+<Sync time="5182.109"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5218.973" endTime="5222.685">
+<Sync time="5218.973"/>
+
+<Sync time="5219.488"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5220.293"/>
+
+<Sync time="5221.649"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5222.685" endTime="5227.064">
+<Sync time="5222.685"/>
+
+<Sync time="5223.675"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5227.064" endTime="5227.89">
+<Sync time="5227.064"/>
+
+<Sync time="5227.510"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5227.89" endTime="5232.185">
+<Sync time="5227.89"/>
+
+<Sync time="5228.144"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5228.976"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5232.185" endTime="5240.712">
+<Sync time="5232.185"/>
+
+<Sync time="5233.073"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5240.712" endTime="5242.558">
+<Sync time="5240.712"/>
+
+<Sync time="5241.291"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5242.558" endTime="5250.632">
+<Sync time="5242.558"/>
+
+<Sync time="5243.383"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5250.632" endTime="5251.664">
+<Sync time="5250.632"/>
+
+<Sync time="5251.126"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5251.664" endTime="5262.525">
+<Sync time="5251.664"/>
+
+<Sync time="5256.607"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5262.525" endTime="5273.186">
+<Sync time="5262.525"/>
+
+<Sync time="5263.822"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5264.644"/>
+
+<Sync time="5265.816"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5268.168"/>
+
+<Sync time="5271.483"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5273.186" endTime="5274.092">
+<Sync time="5273.186"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5274.092" endTime="5285.635">
+<Sync time="5274.092"/>
+
+<Sync time="5274.897"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5276.316"/>
+
+<Sync time="5277.451"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5279.327"/>
+
+<Sync time="5281.017"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5282.278"/>
+
+<Sync time="5284.403"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5285.635" endTime="5313.876">
+<Sync time="5285.635"/>
+
+<Sync time="5289.692"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5292.633"/>
+
+<Sync time="5294.284"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5296.216"/>
+
+<Sync time="5298.774"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5300.13"/>
+
+<Sync time="5301.798"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5303.120"/>
+
+<Sync time="5305.326"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5306.67"/>
+
+<Sync time="5308.01"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5313.876" endTime="5319.123">
+<Sync time="5313.876"/>
+
+<Sync time="5314.452"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5316.011"/>
+
+<Sync time="5316.94"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5319.123" endTime="5337.004">
+<Sync time="5319.123"/>
+
+<Sync time="5319.657"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5321.246"/>
+
+<Sync time="5325.996"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5328.207"/>
+
+<Sync time="5331.185"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="5337.004" endTime="5369.001">
+<Sync time="5337.004"/>
+
+<Sync time="5337.414"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5338.713"/>
+
+<Sync time="5340.488"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5342.378"/>
+
+<Sync time="5345.79"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5347.157"/>
+
+<Sync time="5349.187"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5350.181"/>
+
+<Sync time="5353.581"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5354.433"/>
+
+<Sync time="5358.423"/>
+
+<Sync time="5361.884"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5362.377"/>
+
+<Sync time="5366.218"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5369.001" endTime="5429.92">
+<Sync time="5369.001"/>
+
+<Sync time="5369.414"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5370.838"/>
+
+<Sync time="5372.421"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5373.93"/>
+
+<Sync time="5375.558"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5377.514"/>
+
+<Sync time="5378.712"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5380.487"/>
+
+<Sync time="5383.722"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5384.962"/>
+
+<Sync time="5385.711"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5392.09"/>
+
+<Sync time="5393.271"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5395.282"/>
+
+<Sync time="5396.815"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5397.516"/>
+
+<Sync time="5401.341"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5402.756"/>
+
+<Sync time="5407.166"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5408.362"/>
+
+<Sync time="5410.549"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5412.244"/>
+
+<Sync time="5413.665"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5414.552"/>
+
+<Sync time="5418.635"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5421.085"/>
+
+<Sync time="5423.391"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5424.871"/>
+
+<Sync time="5427.474"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5429.92" endTime="5454.817">
+<Sync time="5429.92"/>
+
+<Sync time="5430.498"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5432.086"/>
+
+<Sync time="5433.699"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5434.401"/>
+
+<Sync time="5438.337"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5440.489"/>
+
+<Sync time="5442.164"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5442.891"/>
+
+<Sync time="5444.418"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5445.366"/>
+
+<Sync time="5446.625"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5447.698"/>
+
+<Sync time="5450.231"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5450.89"/>
+
+<Sync time="5453.981"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5454.817" endTime="5481.158">
+<Sync time="5454.817"/>
+
+<Sync time="5455.805"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5458.798"/>
+
+<Sync time="5459.83"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5460.84"/>
+
+<Sync time="5461.888"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5463.134"/>
+
+<Sync time="5464.106"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5465.248"/>
+
+<Sync time="5467.617"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5470.77"/>
+
+<Sync time="5472.642"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5473.568"/>
+
+<Sync time="5474.743"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5475.946"/>
+
+<Sync time="5476.772"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5478.178"/>
+
+<Sync time="5478.673"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5479.69"/>
+
+<Sync time="5480.539"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5481.158" endTime="5498.006">
+<Sync time="5481.158"/>
+
+<Sync time="5482.581"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5483.264"/>
+
+<Sync time="5485.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5488.181"/>
+
+<Sync time="5488.565"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5489.514"/>
+
+<Sync time="5489.991"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5490.796"/>
+
+<Sync time="5494.138"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5494.808"/>
+
+<Sync time="5497.017"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5498.006" endTime="5506.97">
+<Sync time="5498.006"/>
+
+<Sync time="5503.235"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5506.97" endTime="5518.337">
+<Sync time="5506.97"/>
+
+<Sync time="5507.694"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5508.354"/>
+
+<Sync time="5510.918"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5511.369"/>
+
+<Sync time="5513.756"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5518.337" endTime="5529.432">
+<Sync time="5518.337"/>
+
+<Sync time="5519.575"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5520.832"/>
+
+<Sync time="5525.231"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5529.432" endTime="5543.137">
+<Sync time="5529.432"/>
+
+<Sync time="5529.99"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5532.546"/>
+
+<Sync time="5534.707"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5536.19"/>
+
+<Sync time="5537.371"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5538.072"/>
+
+<Sync time="5539.924"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5540.669"/>
+
+<Sync time="5542.127"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5543.137" endTime="5575.101">
+<Sync time="5543.137"/>
+
+<Sync time="5543.794"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5544.831"/>
+
+<Sync time="5548.625"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5550.806"/>
+
+<Sync time="5553.49"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5554.036"/>
+
+<Sync time="5555.975"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5557.292"/>
+
+<Sync time="5561.329"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5565.04"/>
+
+<Sync time="5566.116"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5567.191"/>
+
+<Sync time="5568.344"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5569.597"/>
+
+<Sync time="5572.799"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5575.101" endTime="5588.522">
+<Sync time="5575.101"/>
+
+<Sync time="5575.554"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5577.604"/>
+
+<Sync time="5578.724"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5580.718"/>
+
+<Sync time="5581.586"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5583.047"/>
+
+<Sync time="5584.982"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5588.522" endTime="5605.884">
+<Sync time="5588.522"/>
+
+<Sync time="5590.172"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5592.083"/>
+
+<Sync time="5593.262"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5598.327"/>
+
+<Sync time="5599.713"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5601.175"/>
+
+<Sync time="5604.298"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5605.884" endTime="5613.731">
+<Sync time="5605.884"/>
+
+<Sync time="5606.996"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5613.731" endTime="5616.106">
+<Sync time="5613.731"/>
+
+<Sync time="5614.723"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5616.106" endTime="5619.036">
+<Sync time="5616.106"/>
+
+<Sync time="5618.005"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5619.036" endTime="5629.581">
+<Sync time="5619.036"/>
+
+<Sync time="5619.734"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5629.581" endTime="5633.456">
+<Sync time="5629.581"/>
+
+<Sync time="5630.446"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5633.456" endTime="5663.194">
+<Sync time="5633.456"/>
+
+<Sync time="5634.464"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5635.68"/>
+
+<Sync time="5638.378"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5639.82"/>
+
+<Sync time="5642.413"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5644.857"/>
+
+<Sync time="5646.855"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5647.49"/>
+
+<Sync time="5648.87"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5649.815"/>
+
+<Sync time="5654.108"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5657.54"/>
+
+<Sync time="5659.312"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5660.135"/>
+
+<Sync time="5662.491"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5663.194" endTime="5663.849">
+<Sync time="5663.194"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5663.849" endTime="5685.385">
+<Sync time="5663.849"/>
+
+<Sync time="5664.945"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5666.668"/>
+
+<Sync time="5669.507"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5671.031"/>
+
+<Sync time="5672.566"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5673.877"/>
+
+<Sync time="5675.574"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5685.385" endTime="5709.548">
+<Sync time="5685.385"/>
+
+<Sync time="5686.151"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5688.772"/>
+
+<Sync time="5689.679"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5693.26"/>
+
+<Sync time="5695.585"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5705.799"/>
+
+<Sync time="5706.251"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5709.548" endTime="5724.081">
+<Sync time="5709.548"/>
+
+<Sync time="5710.044"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5724.081" endTime="5740.16">
+<Sync time="5724.081"/>
+
+<Sync time="5724.555"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5725.606"/>
+
+<Sync time="5726.202"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5727.526"/>
+
+<Sync time="5727.747"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5729.39"/>
+
+<Sync time="5730.117"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5740.16" endTime="5860.037">
+<Sync time="5740.16"/>
+
+<Sync time="5740.57"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5744.300"/>
+
+<Sync time="5745.462"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5748.790"/>
+
+<Sync time="5750.358"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5752.735"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="5753.483"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5757.094"/>
+
+<Sync time="5757.485"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5760.272"/>
+
+<Sync time="5761.475"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5763.295"/>
+
+<Sync time="5764.564"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5767.173"/>
+
+<Sync time="5767.448"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5769.945"/>
+
+<Sync time="5771.397"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5773.927"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="5774.777"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5779.756"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="5780.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5783.955"/>
+
+<Sync time="5785.86"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5788.951"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="5790.142"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5792.513"/>
+
+<Sync time="5793.507"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5798.509"/>
+
+<Sync time="5799.165"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5803.073"/>
+
+<Sync time="5804.064"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5806.553"/>
+
+<Sync time="5807.581"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5810.194"/>
+
+<Sync time="5811.305"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5815.979"/>
+
+<Sync time="5816.61"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5818.603"/>
+
+<Sync time="5819.754"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5821.622"/>
+
+<Sync time="5822.389"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5826.841"/>
+
+<Sync time="5828.25"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5832.059"/>
+
+<Sync time="5833.436"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5837.144"/>
+
+<Sync time="5838.277"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5840.23"/>
+
+<Sync time="5841.304"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="5860.037" endTime="5929.11">
+<Sync time="5860.037"/>
+
+<Sync time="5860.861"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5862.785"/>
+
+<Sync time="5864.433"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5867.402"/>
+
+<Sync time="5868.39"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5929.11" endTime="5937.36">
+<Sync time="5929.11"/>
+
+<Sync time="5929.847"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5937.36" endTime="5979.304">
+<Sync time="5937.36"/>
+
+<Sync time="5937.798"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5939.973"/>
+
+<Sync time="5941.09"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5942.872"/>
+
+<Sync time="5943.821"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="5958.969"/>
+
+<Sync time="5959.358"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5964.759"/>
+
+<Sync time="5965.747"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="5979.304" endTime="5991.677">
+<Sync time="5979.304"/>
+
+<Sync time="5979.858"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5981.983"/>
+
+<Sync time="5983.61"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5985.733"/>
+
+<Sync time="5987.899"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5988.659"/>
+
+<Sync time="5989.936"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5991.677" endTime="5994.742">
+<Sync time="5991.677"/>
+
+<Sync time="5991.985"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="5994.742" endTime="6001.585">
+<Sync time="5994.742"/>
+
+<Sync time="5995.195"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="5996.772"/>
+
+<Sync time="5997.515"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="6001.585" endTime="6112.560">
+<Sync time="6001.585"/>
+
+<Sync time="6002.381"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6004.669"/>
+
+<Sync time="6005.41"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6007.303"/>
+
+<Sync time="6009.808"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6012.518"/>
+
+<Sync time="6013.135"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6014.37"/>
+
+<Sync time="6015.807"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6017.648"/>
+
+<Sync time="6019.19"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6021.962"/>
+
+<Sync time="6022.794"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6024.006"/>
+
+<Sync time="6025.508"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6026.707"/>
+
+<Sync time="6027.882"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6032.384"/>
+
+<Sync time="6033.192"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6035.366"/>
+
+<Sync time="6037.176"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6038.255"/>
+
+<Sync time="6038.979"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6043.664"/>
+
+<Sync time="6044.387"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6045.458"/>
+
+<Sync time="6045.788"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6050.345"/>
+
+<Sync time="6052.162"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6054.94"/>
+
+<Sync time="6055.96"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6066.078"/>
+
+<Sync time="6066.806"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6070.838"/>
+
+<Sync time="6071.703"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6077.469"/>
+
+<Sync time="6079.371"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6082.396"/>
+
+<Sync time="6083.93"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Sync time="6088.404"/>
+
+<Sync time="6089.228"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6092.77"/>
+
+<Sync time="6093.92"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6096.903"/>
+
+<Sync time="6097.602"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="6100.134"/>
+
+<Sync time="6101.342"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
