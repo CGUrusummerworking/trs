@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="Big5"?> 
+  <!DOCTYPE Trans SYSTEM "trans-13.dtd"> 
+ <Trans scribe="(unknown)" audio_filename="C:/AppServ/www/trs/GreenPeace/TaiwaneseClub/20130523TaiwaneseClub" version="9" version_date="20100201"> 
+<Speakers>
+<Speaker id="spk1" name="speaker1" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="speaker2" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="speaker3" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="speaker4" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="speaker5" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="speaker6" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="speaker7" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="speaker8" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="speaker9" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="speaker10" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="speaker11" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="speaker12" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="speaker13" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk14" name="speaker14" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk15" name="speaker15" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk16" name="speaker16" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="speaker17" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="speaker18" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk19" name="speaker19" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk20" name="speaker20" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk21" name="speaker21" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk22" name="speaker22" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk23" name="speaker23" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk24" name="speaker24" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk25" name="speaker25" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk26" name="speaker26" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk27" name="speaker27" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk28" name="speaker28" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk29" name="speaker29" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk30" name="speaker30" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk31" name="speaker31" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk32" name="speaker32" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk33" name="speaker33" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk34" name="speaker34" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk35" name="speaker35" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk36" name="speaker36" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk37" name="speaker37" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk38" name="speaker38" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk39" name="speaker39" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk40" name="speaker40" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk41" name="speaker41" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk42" name="speaker42" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk43" name="speaker43" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk44" name="speaker44" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk45" name="speaker45" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk46" name="speaker46" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk47" name="speaker47" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk48" name="speaker48" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk49" name="speaker49" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk50" name="speaker50" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk51" name="speaker51" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk52" name="speaker52" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk53" name="speaker53" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk54" name="speaker54" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk55" name="speaker55" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk56" name="speaker56" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk57" name="speaker57" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk58" name="speaker58" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk59" name="speaker59" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk60" name="speaker60" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk61" name="speaker61" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk62" name="speaker62" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk63" name="speaker63" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk64" name="speaker64" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk65" name="speaker65" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk66" name="speaker66" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk67" name="speaker67" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk68" name="speaker68" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk69" name="speaker69" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk70" name="speaker70" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk71" name="speaker71" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk72" name="speaker72" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk73" name="speaker73" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk74" name="speaker74" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk75" name="speaker75" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk76" name="speaker76" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk77" name="speaker77" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk78" name="speaker78" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk79" name="speaker79" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk80" name="speaker80" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk81" name="speaker81" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk82" name="speaker82" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk83" name="speaker83" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk84" name="speaker84" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk85" name="speaker85" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk86" name="speaker86" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk87" name="speaker87" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk88" name="speaker88" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk89" name="speaker89" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk90" name="speaker90" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk91" name="speaker91" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk92" name="speaker92" check="no" type="" dialect="native" accent="" scope="local"/>
+<Speaker id="spk93" name="speaker93" check="no" type="" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="xx"/>
+</Topics>
+<Episode>
+<Section type="report" topic="to1" startTime="0" endTime="7170.335375">
+<Turn speaker="spk1" mode="" fidelity="" channel="" startTime="0.000000" endTime="15.370054">
+</Turn>
+<Turn speaker="spk2" mode="" fidelity="" channel="" startTime="15.370054" endTime="20.970074">
+</Turn>
+<Turn speaker="spk3" mode="" fidelity="" channel="" startTime="20.970074" endTime="28.450101">
+</Turn>
+<Turn speaker="spk4" mode="" fidelity="" channel="" startTime="28.450101" endTime="35.290125">
+</Turn>
+<Turn speaker="spk5" mode="" fidelity="" channel="" startTime="35.290125" endTime="43.370153">
+</Turn>
+<Turn speaker="spk6" mode="" fidelity="" channel="" startTime="43.370153" endTime="51.210181">
+</Turn>
+<Turn speaker="spk7" mode="" fidelity="" channel="" startTime="51.210181" endTime="66.410235">
+</Turn>
+<Turn speaker="spk8" mode="" fidelity="" channel="" startTime="66.410235" endTime="73.530260">
+</Turn>
+<Turn speaker="spk9" mode="" fidelity="" channel="" startTime="73.530260" endTime="82.410292">
+</Turn>
+<Turn speaker="spk7" mode="" fidelity="" channel="" startTime="82.410292" endTime="116.730413">
+</Turn>
+<Turn speaker="spk10" mode="" fidelity="" channel="" startTime="116.730413" endTime="132.050467">
+</Turn>
+<Turn speaker="spk11" mode="" fidelity="" channel="" startTime="132.050467" endTime="140.330497">
+</Turn>
+<Turn speaker="spk7" mode="" fidelity="" channel="" startTime="140.330497" endTime="154.850548">
+</Turn>
+<Turn speaker="spk12" mode="" fidelity="" channel="" startTime="154.850548" endTime="162.010573">
+</Turn>
+<Turn speaker="spk13" mode="" fidelity="" channel="" startTime="162.010573" endTime="178.410631">
+</Turn>
+<Turn speaker="spk14" mode="" fidelity="" channel="" startTime="178.410631" endTime="183.010648">
+</Turn>
+<Turn speaker="spk15" mode="" fidelity="" channel="" startTime="183.010648" endTime="189.050669">
+</Turn>
+<Turn speaker="spk16" mode="" fidelity="" channel="" startTime="189.050669" endTime="215.370762">
+</Turn>
+<Turn speaker="spk17" mode="" fidelity="" channel="" startTime="215.370762" endTime="219.570777">
+</Turn>
+<Turn speaker="spk18" mode="" fidelity="" channel="" startTime="219.570777" endTime="235.130832">
+</Turn>
+<Turn speaker="spk19" mode="" fidelity="" channel="" startTime="235.130832" endTime="243.050860">
+</Turn>
+<Turn speaker="spk20" mode="" fidelity="" channel="" startTime="243.050860" endTime="255.850905">
+</Turn>
+<Turn speaker="spk21" mode="" fidelity="" channel="" startTime="255.850905" endTime="269.850955">
+</Turn>
+<Turn speaker="spk22" mode="" fidelity="" channel="" startTime="269.850955" endTime="280.370992">
+</Turn>
+<Turn speaker="spk23" mode="" fidelity="" channel="" startTime="280.370992" endTime="286.291013">
+</Turn>
+<Turn speaker="spk24" mode="" fidelity="" channel="" startTime="286.291013" endTime="290.531028">
+</Turn>
+<Turn speaker="spk25" mode="" fidelity="" channel="" startTime="290.531028" endTime="296.811050">
+</Turn>
+<Turn speaker="spk26" mode="" fidelity="" channel="" startTime="296.811050" endTime="301.771068">
+</Turn>
+<Turn speaker="spk27" mode="" fidelity="" channel="" startTime="301.771068" endTime="306.571085">
+</Turn>
+<Turn speaker="spk28" mode="" fidelity="" channel="" startTime="306.571085" endTime="315.451116">
+</Turn>
+<Turn speaker="spk29" mode="" fidelity="" channel="" startTime="315.451116" endTime="328.411162">
+</Turn>
+<Turn speaker="spk30" mode="" fidelity="" channel="" startTime="328.411162" endTime="339.491201">
+</Turn>
+<Turn speaker="spk18" mode="" fidelity="" channel="" startTime="339.491201" endTime="356.811263">
+</Turn>
+<Turn speaker="spk26" mode="" fidelity="" channel="" startTime="356.811263" endTime="362.691284">
+</Turn>
+<Turn speaker="spk31" mode="" fidelity="" channel="" startTime="362.691284" endTime="368.571304">
+</Turn>
+<Turn speaker="spk32" mode="" fidelity="" channel="" startTime="368.571304" endTime="389.011377">
+</Turn>
+<Turn speaker="spk33" mode="" fidelity="" channel="" startTime="389.011377" endTime="394.771397">
+</Turn>
+<Turn speaker="spk34" mode="" fidelity="" channel="" startTime="394.771397" endTime="404.531432">
+</Turn>
+<Turn speaker="spk35" mode="" fidelity="" channel="" startTime="404.531432" endTime="410.051451">
+</Turn>
+<Turn speaker="spk36" mode="" fidelity="" channel="" startTime="410.051451" endTime="417.011476">
+</Turn>
+<Turn speaker="spk37" mode="" fidelity="" channel="" startTime="417.011476" endTime="422.971497">
+</Turn>
+<Turn speaker="spk16" mode="" fidelity="" channel="" startTime="422.971497" endTime="507.371796">
+</Turn>
+<Turn speaker="spk38" mode="" fidelity="" channel="" startTime="507.371796" endTime="518.491835">
+</Turn>
+<Turn speaker="spk16" mode="" fidelity="" channel="" startTime="518.491835" endTime="555.371965">
+</Turn>
+<Turn speaker="spk39" mode="" fidelity="" channel="" startTime="555.371965" endTime="917.533247">
+</Turn>
+<Turn speaker="spk40" mode="" fidelity="" channel="" startTime="917.533247" endTime="966.733421">
+</Turn>
+<Turn speaker="spk41" mode="" fidelity="" channel="" startTime="966.733421" endTime="1016.893599">
+</Turn>
+<Turn speaker="spk39" mode="" fidelity="" channel="" startTime="1016.893599" endTime="1048.773711">
+</Turn>
+<Turn speaker="spk42" mode="" fidelity="" channel="" startTime="1048.773711" endTime="1582.215599">
+</Turn>
+<Turn speaker="spk40" mode="" fidelity="" channel="" startTime="1582.215599" endTime="1604.815679">
+</Turn>
+<Turn speaker="spk43" mode="" fidelity="" channel="" startTime="1604.815679" endTime="1626.135755">
+</Turn>
+<Turn speaker="spk38" mode="" fidelity="" channel="" startTime="1626.135755" endTime="1635.935789">
+</Turn>
+<Turn speaker="spk44" mode="" fidelity="" channel="" startTime="1635.935789" endTime="1643.815817">
+</Turn>
+<Turn speaker="spk45" mode="" fidelity="" channel="" startTime="1643.815817" endTime="1810.576407">
+</Turn>
+<Turn speaker="spk46" mode="" fidelity="" channel="" startTime="1810.576407" endTime="1859.936582">
+</Turn>
+<Turn speaker="spk47" mode="" fidelity="" channel="" startTime="1859.936582" endTime="1984.777024">
+</Turn>
+<Turn speaker="spk48" mode="" fidelity="" channel="" startTime="1984.777024" endTime="2018.217142">
+</Turn>
+<Turn speaker="spk49" mode="" fidelity="" channel="" startTime="2018.217142" endTime="2155.937630">
+</Turn>
+<Turn speaker="spk50" mode="" fidelity="" channel="" startTime="2155.937630" endTime="2709.459588">
+</Turn>
+<Turn speaker="spk51" mode="" fidelity="" channel="" startTime="2709.459588" endTime="2977.700538">
+</Turn>
+<Turn speaker="spk52" mode="" fidelity="" channel="" startTime="2977.700538" endTime="2982.860556">
+</Turn>
+<Turn speaker="spk53" mode="" fidelity="" channel="" startTime="2982.860556" endTime="3202.061332">
+</Turn>
+<Turn speaker="spk54" mode="" fidelity="" channel="" startTime="3202.061332" endTime="3206.501347">
+</Turn>
+<Turn speaker="spk55" mode="" fidelity="" channel="" startTime="3206.501347" endTime="3236.181452">
+</Turn>
+<Turn speaker="spk56" mode="" fidelity="" channel="" startTime="3236.181452" endTime="3299.941678">
+</Turn>
+<Turn speaker="spk57" mode="" fidelity="" channel="" startTime="3299.941678" endTime="3392.822007">
+</Turn>
+<Turn speaker="spk58" mode="" fidelity="" channel="" startTime="3392.822007" endTime="3400.582034">
+</Turn>
+<Turn speaker="spk59" mode="" fidelity="" channel="" startTime="3400.582034" endTime="3404.742049">
+</Turn>
+<Turn speaker="spk60" mode="" fidelity="" channel="" startTime="3404.742049" endTime="3431.782145">
+</Turn>
+<Turn speaker="spk61" mode="" fidelity="" channel="" startTime="3431.782145" endTime="3471.582286">
+</Turn>
+<Turn speaker="spk62" mode="" fidelity="" channel="" startTime="3471.582286" endTime="3501.102390">
+</Turn>
+<Turn speaker="spk63" mode="" fidelity="" channel="" startTime="3501.102390" endTime="3536.782516">
+</Turn>
+<Turn speaker="spk64" mode="" fidelity="" channel="" startTime="3536.782516" endTime="3562.782608">
+</Turn>
+<Turn speaker="spk65" mode="" fidelity="" channel="" startTime="3562.782608" endTime="3575.942655">
+</Turn>
+<Turn speaker="spk66" mode="" fidelity="" channel="" startTime="3575.942655" endTime="3581.022673">
+</Turn>
+<Turn speaker="spk67" mode="" fidelity="" channel="" startTime="3581.022673" endTime="3586.622693">
+</Turn>
+<Turn speaker="spk68" mode="" fidelity="" channel="" startTime="3586.622693" endTime="3603.422752">
+</Turn>
+<Turn speaker="spk69" mode="" fidelity="" channel="" startTime="3603.422752" endTime="3641.022885">
+</Turn>
+<Turn speaker="spk70" mode="" fidelity="" channel="" startTime="3641.022885" endTime="3666.022974">
+</Turn>
+<Turn speaker="spk48" mode="" fidelity="" channel="" startTime="3666.022974" endTime="3754.343286">
+</Turn>
+<Turn speaker="spk71" mode="" fidelity="" channel="" startTime="3754.343286" endTime="3917.663864">
+</Turn>
+<Turn speaker="spk72" mode="" fidelity="" channel="" startTime="3917.663864" endTime="4441.065716">
+</Turn>
+<Turn speaker="spk73" mode="" fidelity="" channel="" startTime="4441.065716" endTime="4458.465778">
+</Turn>
+<Turn speaker="spk74" mode="" fidelity="" channel="" startTime="4458.465778" endTime="5031.747807">
+</Turn>
+<Turn speaker="spk75" mode="" fidelity="" channel="" startTime="5031.747807" endTime="5046.787860">
+</Turn>
+<Turn speaker="spk76" mode="" fidelity="" channel="" startTime="5046.787860" endTime="5274.948667">
+</Turn>
+<Turn speaker="spk77" mode="" fidelity="" channel="" startTime="5274.948667" endTime="5286.868710">
+</Turn>
+<Turn speaker="spk78" mode="" fidelity="" channel="" startTime="5286.868710" endTime="5317.148817">
+</Turn>
+<Turn speaker="spk79" mode="" fidelity="" channel="" startTime="5317.148817" endTime="5320.748830">
+</Turn>
+<Turn speaker="spk80" mode="" fidelity="" channel="" startTime="5320.748830" endTime="5447.389278">
+</Turn>
+<Turn speaker="spk81" mode="" fidelity="" channel="" startTime="5447.389278" endTime="5695.470156">
+</Turn>
+<Turn speaker="spk82" mode="" fidelity="" channel="" startTime="5695.470156" endTime="5698.790167">
+</Turn>
+<Turn speaker="spk83" mode="" fidelity="" channel="" startTime="5698.790167" endTime="5752.190356">
+</Turn>
+<Turn speaker="spk84" mode="" fidelity="" channel="" startTime="5752.190356" endTime="5884.070823">
+</Turn>
+<Turn speaker="spk85" mode="" fidelity="" channel="" startTime="5884.070823" endTime="6105.271606">
+</Turn>
+<Turn speaker="spk86" mode="" fidelity="" channel="" startTime="6105.271606" endTime="6493.272979">
+</Turn>
+<Turn speaker="spk87" mode="" fidelity="" channel="" startTime="6493.272979" endTime="6700.313712">
+</Turn>
+<Turn speaker="spk88" mode="" fidelity="" channel="" startTime="6700.313712" endTime="7004.074787">
+</Turn>
+<Turn speaker="spk89" mode="" fidelity="" channel="" startTime="7004.074787" endTime="7009.314805">
+</Turn>
+<Turn speaker="spk90" mode="" fidelity="" channel="" startTime="7009.314805" endTime="7024.954861">
+</Turn>
+<Turn speaker="spk91" mode="" fidelity="" channel="" startTime="7024.954861" endTime="7056.234971">
+</Turn>
+<Turn speaker="spk63" mode="" fidelity="" channel="" startTime="7056.234971" endTime="7061.794991">
+</Turn>
+<Turn speaker="spk64" mode="" fidelity="" channel="" startTime="7061.794991" endTime="7085.755076">
+</Turn>
+<Turn speaker="spk92" mode="" fidelity="" channel="" startTime="7085.755076" endTime="7115.115180">
+</Turn>
+<Turn speaker="spk61" mode="" fidelity="" channel="" startTime="7115.115180" endTime="7152.875313">
+</Turn>
+<Turn speaker="spk93" mode="" fidelity="" channel="" startTime="7152.875313" endTime="7170.335375">
+</Turn>
+</Section>
+</Episode>
+</Trans>

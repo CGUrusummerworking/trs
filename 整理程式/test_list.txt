@@ -1,0 +1,9 @@
+﻿
+./tsr集合資料夾/新增的TRS/csgr/csgr04-zy-0418.trs
+./tsr集合資料夾/新增的TRS/csgr/csgr10-zy-0514.trs
+./tsr集合資料夾/新增的TRS/csgr/csgr40-zy-0610-0629-0703.trs
+./tsr集合資料夾/新增的TRS/csgr/csgr37-zy-0605-0701-0703.trs
+./tsr集合資料夾/新增的TRS/csgr/csgr07-zy-0504.trs
+./tsr集合資料夾/新增的TRS/csgr/csgr13-1020521.trs
+./tsr集合資料夾/全部TRS/vvrs07-zy.trs
+./data/data/trs/DaAiTV/blktc03-zy.trs
