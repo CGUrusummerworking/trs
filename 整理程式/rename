@@ -12,8 +12,8 @@ def 檔案改名():
 	目標.close()
 
 	字典 = dict()					#建立dictionary
-	來源檔案.sort()
-	目標檔案.sort()
+	來源檔案
+	目標檔案
 
 	x = 0
 
