@@ -3,11 +3,11 @@ import shutil
 
 def 檔案改名():
 
-	來源 = open('D:/source.txt')#,encoding='UTF-8')
+	來源 = open('source.txt')#,encoding='UTF-8')
 	來源檔案 = 來源.readlines()			#依行讀入至List
 	來源.close()
 
-	目標 = open('D:/target.txt')#,encoding='UTF-8')
+	目標 = open('target.txt')#,encoding='UTF-8')
 	目標檔案 = 目標.readlines()			#依行讀入至List
 	目標.close()
 
@@ -32,7 +32,7 @@ def 檔案改名():
 	完成數 = 0
 
 
-	for dirPath, dirNames, fileNames in os.walk("D:/_本資料夾之集合與郵件附件trs_的集合"):
+	for dirPath, dirNames, fileNames in os.walk("trs / tsr集合資料夾 / 本資料夾trs之集合"):
 		for 檔名 in fileNames:
 			try:
 				os.rename(dirPath + '/' + 檔名,dirPath+ '/' + 字典[檔名])
