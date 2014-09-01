@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="(unknown)" audio_filename="PTSN_20121006-zy" version="10" version_date="121012">
+<Speakers>
+<Speaker id="spk1" name="speaker1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="speaker2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="speaker3" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="speaker4" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="speaker5" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="speaker6" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="speaker7" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="speaker8" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="speaker9" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="speaker10" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="speaker11" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="speaker12" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="xx"/>
+</Topics>
+<Episode>
+<Section type="report" topic="to1" startTime="0" endTime="1283.1239950000004">
+<Turn speaker="spk1" startTime="0" endTime="5.8512710000000006">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="5.8512710000000006" endTime="36.451712">
+<Sync time="5.8512710000000006"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.451712" endTime="58.001000000000005">
+<Sync time="36.451712"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="58.001000000000005" endTime="93.092529">
+<Sync time="58.001000000000005"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="93.092529" endTime="122.772957">
+<Sync time="93.092529"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="122.772957" endTime="155.973436">
+<Sync time="122.772957"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="155.973436" endTime="176.73458399999998">
+<Sync time="155.973436"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="176.73458399999998" endTime="191.02458399999998">
+<Sync time="176.73458399999998"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="191.02458399999998" endTime="208.572085">
+<Sync time="191.02458399999998"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="208.572085" endTime="226.29234">
+<Sync time="208.572085"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="226.29234" endTime="243.49258799999998">
+<Sync time="226.29234"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="243.49258799999998" endTime="262.65558799999997">
+<Sync time="243.49258799999998"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="262.65558799999997" endTime="276.29578499999997">
+<Sync time="262.65558799999997"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="276.29578499999997" endTime="290.375988">
+<Sync time="276.29578499999997"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="290.375988" endTime="303.873988">
+<Sync time="290.375988"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="303.873988" endTime="327.810246">
+<Sync time="303.873988"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="327.810246" endTime="347.98898199999996">
+<Sync time="327.810246"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="347.98898199999996" endTime="367.749267">
+<Sync time="347.98898199999996"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="367.749267" endTime="390.38959399999993">
+<Sync time="367.749267"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="390.38959399999993" endTime="420.07002199999994">
+<Sync time="390.38959399999993"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="420.07002199999994" endTime="426.79011899999995">
+<Sync time="420.07002199999994"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="426.79011899999995" endTime="443.1903549999999">
+<Sync time="426.79011899999995"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="443.1903549999999" endTime="464.90060799999986">
+<Sync time="443.1903549999999"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="464.90060799999986" endTime="503.44960799999996">
+<Sync time="464.90060799999986"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="503.44960799999996" endTime="528.0536079999999">
+<Sync time="503.44960799999996"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="528.0536079999999" endTime="546.4230469999999">
+<Sync time="528.0536079999999"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="546.4230469999999" endTime="568.1433609999999">
+<Sync time="546.4230469999999"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="568.1433609999999" endTime="599.9038189999999">
+<Sync time="568.1433609999999"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="599.9038189999999" endTime="618.3840849999999">
+<Sync time="599.9038189999999"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="618.3840849999999" endTime="630.3204519999999">
+<Sync time="618.3840849999999"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="630.3204519999999" endTime="647.843501">
+<Sync time="630.3204519999999"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="647.843501" endTime="667.1532189999999">
+<Sync time="647.843501"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="667.1532189999999" endTime="678.160501">
+<Sync time="667.1532189999999"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="678.160501" endTime="698.5425009999999">
+<Sync time="678.160501"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="698.5425009999999" endTime="708.7826489999999">
+<Sync time="698.5425009999999"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="708.7826489999999" endTime="720.5690639999999">
+<Sync time="708.7826489999999"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="720.5690639999999" endTime="732.6892379999999">
+<Sync time="720.5690639999999"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="732.6892379999999" endTime="752.9295299999999">
+<Sync time="732.6892379999999"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="752.9295299999999" endTime="802.3302429999999">
+<Sync time="752.9295299999999"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="802.3302429999999" endTime="819.0904839999998">
+<Sync time="802.3302429999999"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="819.0904839999998" endTime="834.5011789999999">
+<Sync time="819.0904839999998"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="834.5011789999999" endTime="866.49946">
+<Sync time="834.5011789999999"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="866.49946" endTime="881.379674">
+<Sync time="866.49946"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="881.379674" endTime="900.7799540000001">
+<Sync time="881.379674"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="900.7799540000001" endTime="924.4202949999999">
+<Sync time="900.7799540000001"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="924.4202949999999" endTime="939.3805110000001">
+<Sync time="924.4202949999999"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="939.3805110000001" endTime="959.7008040000001">
+<Sync time="939.3805110000001"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="959.7008040000001" endTime="975.2111">
+<Sync time="959.7008040000001"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="975.2111" endTime="984.2768040000001">
+<Sync time="975.2111"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="984.2768040000001" endTime="1025.6518270000001">
+<Sync time="984.2768040000001"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1025.6518270000001" endTime="1040.732045">
+<Sync time="1025.6518270000001"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1040.732045" endTime="1069.922804">
+<Sync time="1040.732045"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1069.922804" endTime="1087.912027">
+<Sync time="1069.922804"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1087.912027" endTime="1113.9124020000002">
+<Sync time="1087.912027"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1113.9124020000002" endTime="1129.9926340000002">
+<Sync time="1113.9124020000002"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1129.9926340000002" endTime="1149.9529220000002">
+<Sync time="1129.9926340000002"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1149.9529220000002" endTime="1154.2767600000002">
+<Sync time="1149.9529220000002"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1154.2767600000002" endTime="1164.9169130000002">
+<Sync time="1154.2767600000002"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1164.9169130000002" endTime="1176.4770790000002">
+<Sync time="1164.9169130000002"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1176.4770790000002" endTime="1185.9861810000002">
+<Sync time="1176.4770790000002"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1185.9861810000002" endTime="1202.7864230000002">
+<Sync time="1185.9861810000002"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1202.7864230000002" endTime="1219.1466590000002">
+<Sync time="1202.7864230000002"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1219.1466590000002" endTime="1231.3336590000004">
+<Sync time="1219.1466590000002"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1231.3336590000004" endTime="1247.8938980000005">
+<Sync time="1231.3336590000004"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1247.8938980000005" endTime="1276.4038980000005">
+<Sync time="1247.8938980000005"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1276.4038980000005" endTime="1283.1239950000004">
+<Sync time="1276.4038980000005"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
