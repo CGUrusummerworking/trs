@@ -1,5 +1,4 @@
 import os
-import shutil
 
 def 檔案改名():
 	現在目錄 = os.path.dirname(__file__)
@@ -32,12 +31,13 @@ def 檔案改名():
 
 	完成數 = 0
 
-
-	for dirPath, dirNames, fileNames in os.walk(os.path.join(現在目錄, '..', '文件檔案')):
+	文件目錄 = os.path.join(現在目錄, '..', '文件檔案')
+	for dirPath, dirNames, fileNames in os.walk(文件目錄):
 		for 檔名 in fileNames:
 			try:
-# 				os.rename(dirPath + '/' + 檔名,dirPath+ '/' + 字典[檔名])
-				a = 字典[檔名]
+				原本路徑 = os.path.join(dirPath, 檔名)
+				改名路徑 = os.path.join(dirPath, 字典[檔名])
+				os.rename(原本路徑, 改名路徑)
 				完成數 += 1
 			except:
 				print(檔名, "可能因為已存在或是其他原因而沒改名")
