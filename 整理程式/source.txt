@@ -35,7 +35,7 @@ _Chen Tsau_50-101209-131228.trs
 _Chen Tsau_50-101209-131228-140214.trs
 _ChenSuNian_20--991030(dancor).trs
 _Liang Min Shiung_0991031(dancor).trs
-_Liang Min Shiung_0991031(dancor)131028 - �ƻs.trs
+_Liang Min Shiung_0991031(dancor)131028 - 複製.trs
 _Liang Min Shiung_0991031(dancor)131028.trs
 _LiangMinShiung_0991031(dancor).trs
 _Tsai Feng An_0_101116.trs
@@ -271,7 +271,7 @@ _Tsai Feng An_30_131105-1030101-0119.trs
 1113-220001-120821.trs
 1113-220001-120914.trs
 1113-220001-120929 (2).trs
-1113-220001-120929(�ýX��).trs
+1113-220001-120929(亂碼更正).trs
 1113-220001-120929.trs
 1113-220002-120821.trs
 1113-220002-120916.trs
